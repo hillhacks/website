@@ -6264,12 +6264,33 @@ button.close {
 @media print {
   .hidden-print {
     display: none !important; } }
+.row {
+  margin-left: 0px;
+  margin-right: 0px; }
+
 /* navbar */
 .hillhacks-nav {
   background-color: #ffffff;
-  font-family: 'Roboto Condensed', sans-serif; }
-  .hillhacks-nav a {
-    color: #4e4e4e;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 16px; }
+  .hillhacks-nav .cta-2-xs {
+    font-family: 'Roboto Condensed', sans-serif;
+    background: #ffffff;
+    border-radius: 4px;
+    border-color: #63BED5;
+    -webkit-transition-duration: 0.4s;
+    /* Safari */
+    transition-duration: 0.4s;
+    color: #63BED5;
+    font-size: 16px;
+    margin-top: 10px; }
+    .hillhacks-nav .cta-2-xs:hover {
+      background-color: #63BED5;
+      border-color: #47A8C1;
+      color: #ffffff; }
+    .hillhacks-nav .cta-2-xs a {
+      color: #ffffff; }
+  .hillhacks-nav .dropdown-menu {
     font-size: 16px; }
 
 /* .......... */
@@ -6302,7 +6323,7 @@ body {
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
-  padding: 130px; }
+  padding-top: 130px; }
 
 .header h1 {
   font-family: 'Roboto Mono', monospace;
@@ -6315,6 +6336,8 @@ body {
   color: #BBCBEC;
   letter-spacing: 1.79px;
   text-shadow: 0px 0px 5px #788FC0; }
+.header a {
+  text-decoration: none; }
 
 .cta-1 {
   font-family: 'Roboto Condensed', sans-serif;
@@ -6325,7 +6348,8 @@ body {
   padding: 15px;
   -webkit-transition-duration: 0.4s;
   /* Safari */
-  transition-duration: 0.4s; }
+  transition-duration: 0.4s;
+  text-decoration: none; }
   .cta-1:hover {
     background-color: #4AA9BC;
     border-color: #4AA9BC; }
@@ -6364,7 +6388,6 @@ body {
   font-family: 'Roboto Condensed', sans-serif;
   color: #4E4E4E;
   letter-spacing: 1.65px;
-  margin-top: 20px;
   text-decoration: underline; }
 .section-white ul {
   font-family: 'Roboto Condensed', sans-serif;
@@ -6395,3 +6418,19 @@ body {
 
 .mb100 {
   margin-bottom: 100px; }
+
+.no-padding {
+  padding-top: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px; }
+
+.text-decor-none {
+  text-decoration: none !important; }
+
+/* .no-margin{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+} */

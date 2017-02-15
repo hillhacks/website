@@ -8,13 +8,15 @@
     {% include header.html %}
 
     <div class="container-fluid">
-      <!-- <div class="wrapper"> -->
         {{ content }}
-      <!-- </div> -->
     </div>
 
     <!-- {% include footer.html %} -->
-
+    <script>
+    $(document).on('click', '[data-toggle="lightbox"]', function(event) {
+    event.preventDefault();
+    $(this).ekkoLightbox();
+});</script>
   </body>
 
 </html>

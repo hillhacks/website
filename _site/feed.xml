@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <title>Hillhacks</title>
+    <description>We invite people to share, demonstrate, teach and talk about the things they love. It doesn&#39;t have to be about technology, but from people that show passion in what they do. Free-thinkers, tinkerers and creative minds, artists, techies and hobbyists, hackers and makers, crafters and scientist, humanists and engineers, activists and coders, geeks and nerds, designers and philosophers, natural and artificial intelligences and other interesting beings doing interesting stuff.
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 13 Feb 2017 16:27:12 +0530</pubDate>
-    <lastBuildDate>Mon, 13 Feb 2017 16:27:12 +0530</lastBuildDate>
+    <pubDate>Wed, 15 Feb 2017 14:03:27 +0530</pubDate>
+    <lastBuildDate>Wed, 15 Feb 2017 14:03:27 +0530</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
