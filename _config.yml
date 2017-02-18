@@ -10,8 +10,7 @@ title: hillhacks
 email: mail@hillhacks.in
 description: > # this means to ignore newlines until "baseurl:"
   We invite people to share, demonstrate, teach and talk about the things they love. It doesn't have to be about technology, but from people that show passion in what they do. Free-thinkers, tinkerers and creative minds, artists, techies and hobbyists, hackers and makers, crafters and scientist, humanists and engineers, activists and coders, geeks and nerds, designers and philosophers, natural and artificial intelligences and other interesting beings doing interesting stuff.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://hillhacks.in/" # the base hostname & protocol for your site
 twitter_username: hillhacks
 github_username:  https://github.com/hillhacks
 
