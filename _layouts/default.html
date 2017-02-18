@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
   {% include head.html %}
 
@@ -11,12 +11,7 @@
         {{ content }}
     </div>
 
-    <!-- {% include footer.html %} -->
-    <script>
-    $(document).on('click', '[data-toggle="lightbox"]', function(event) {
-    event.preventDefault();
-    $(this).ekkoLightbox();
-});</script>
+    {% include footer.html %}
   </body>
 
 </html>

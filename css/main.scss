@@ -43,6 +43,10 @@ $on-laptop:        800px;
     }
 }
 
+// Import fonts from CDN
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono:700');
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400');
+@import url('https://fonts.googleapis.com/css?family=Francois+One');
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)
@@ -50,6 +54,5 @@ $on-laptop:        800px;
         "base",
         "layout",
         "syntax-highlighting",
-        "bootstrap",
         "styles"
 ;
