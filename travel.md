@@ -127,8 +127,8 @@ others.
 | From Pathankot to Bir      | 4-5 hours            | Rs. 1700-2000 |
 | From Dharamshala to Bir    | 2 hours              | Rs. 1000-1400 |
 | From Baijnath to Bir       | 20 minutes           | Rs. 250       |
-| From Bir Road<sup>1</sup>  | 5 minutes            | Rs. 60-70     |
+| From Bir Road[^1]          | 5 minutes            | Rs. 60-70     |
 | From Bir Road to Upper Bir | 10 minutes           | Rs. 90-100    |
 
-<sup>1</sup> <small>The closest stop for most long-distance buses to Chowgan
-(including the Tibetan Colony or Deer Park).</small>
+[^1]: The closest stop for most long-distance buses to Chowgan (including the
+      Tibetan Colony or Deer Park).

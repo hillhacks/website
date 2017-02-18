@@ -171,7 +171,13 @@ body{
     }
 }
 
-
+/* Don't underline footnotes */
+a.footnote {
+  text-decoration: none !important;
+}
+a.reversefootnote {
+  text-decoration: none !important;
+}
 
 /* base styles */
 .mt20{
