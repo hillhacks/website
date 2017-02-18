@@ -1,15 +1,18 @@
 ---
 layout: page
-title: About
+title: What we do
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+hillhacks is held in the lap of the stunning Dhauladhar Himalayas every summer.
+People from different places, walks of life and lines of thought come together
+to share, collaborate and learn. Hackers talk code. Artists share their
+creativity. Students join in from schools and colleges to learn new skills.
+Locals and globals mix and mingle.<br>We build things like tables, hula hoops,
+interactive art installations, and solar lanterns. We connect. We dance and
+sing. Ideas emerge. Collaborations form. Lives change.<br>In the hacking, we get
+hacked ourselves.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+Read more about our [history]({{ site.baseurl }}{% link history.html %}) and our
+[philosophy]({{ site.baseurl }}{% link philosophy.md %}).
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
