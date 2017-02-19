@@ -73,6 +73,9 @@ li {
     > ul,
     > ol {
          margin-bottom: 0;
+         @include media-query($on-palm) {
+            margin-left: 8px;
+        }
     }
 }
 

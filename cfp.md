@@ -138,8 +138,10 @@ advance and we'll do our best to sort it out.
 
 ### School programme
 
-| **Dates:** ||  **15-16 May 2017 (workshop for volunteers)** |
-| || **17-31 May (The school programme)** |
+**Dates**:
+  
+  **15-16 May 2017 (workshop for volunteers)**  
+  **17-31 May (The school programme)**
 
 The hillhacks school programme brings volunteer teachers and presenters to local
 primary, secondary and tertiary schools for workshops and classes.  We offer a
