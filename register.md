@@ -25,15 +25,38 @@ you a budget sheet.
 
 ### Rough schedule
 
-{: .table .table-bordered}
-| Event            | Dates          | What to expect                                           |
-|------------------|----------------|----------------------------------------------------------|
-| Unconference     | 15-17 May 2017 | Set up for the main conference, variety of sessions.     |
-| Main conference  | 18-21 May 2017 | Curated talks and workshops. Evening entertainment.      |
-| Unconference     | 22-31 May 2017 | Variety of sessions, clean-up after the main conference. |
-| School programme | 15-31 May 2017 | School visits of one day and longer.                     |
+#### Main conference
+
+{: .dl-horizontal}
+Dates
+: 18-21 May 2017
+
+What to expect
+: Curated talks and workshops<br>
+  Evening entertainment
 
 The main conference schedule will be announced just prior to the event.
+
+#### Unconference
+
+{: .dl-horizontal}
+Dates
+: 15-17 May 2017<br>
+  22-31 May 2017
+
+What to expect
+: Set up for the main conference<br>
+  Variety of sessions<br>
+  Clean up after the main conference
+
+#### School programme
+
+{: .dl-horizontal}
+Dates
+: 15-31 May 2017
+
+What to expect
+: School visits of one day and longer
 
 The school programme will be scheduled based on schools' interest and
 availability of volunteers.
