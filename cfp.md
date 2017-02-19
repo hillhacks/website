@@ -47,9 +47,8 @@ surveillance[^2], an introduction to lambda calculus[^3], 3D printing[^4], the
 need for concrete[^5], and a lot of other interesting sessions.  Oh, and we also
 had a session where one of our friends called us from North Korea[^6]!
 
-<!-- XXX: needs to exist before we link to it!
 If you're very keen on knowing more you might want to spare some time and check
-the hillhacks archive at attic.hillhacks.in. -->
+the hillhacks archive at [attic.hillhacks.in][attic]
 
 Please submit your proposal in OSEM by **{{ page.deadline }}**.
 
@@ -230,5 +229,5 @@ Got questions?  Email away!
 
 [ml]: {% link mailinglist.md %}
 [e]: mailto:mail@hillhacks.in
-
+[attic]: https://attic.hillhacks.in "Archived version of the old hillhacks wiki"
 *[OSEM]: Open Source Event Manager
