@@ -45,5 +45,5 @@ Please [let us know by email][e] if you would like to stay in a shared room at
 the venue so we can plan occupancy.  Note that your stay in a shared room is not
 confirmed until we tell you it is.
 
-[ml]: https://lists.hillhacks.in/mailman/listinfo/hillhackers
+[ml]: {% link mailinglist.md %}
 [e]: mailto:mail@hillhacks.in

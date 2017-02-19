@@ -88,7 +88,7 @@ My family is concerned that this will be way too dangerous!
   the same time you intend to travel.
 ^
 
-[ml]: https://lists.hillhacks.in/mailman/listinfo/hillhackers
+[ml]: {% link mailinglist.md %}
 [travel]: {% link travel.md %}
 [venue]: {% link venue.md %}
 [acco]: {% link accommodation.md %}
