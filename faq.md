@@ -67,7 +67,8 @@ How cold will it be up there?
 ^
 
 What about lodging and food?
-: See the [Venue page][venue] for details.
+: See the [Venue page][venue] and the [Accommodation page][acco] for details.
+<!-- This says nothing about food!  We need to know about food! -->
 ^
 
 I am concerned that I am too young / too old / an introvert / a single female /
@@ -90,3 +91,4 @@ My family is concerned that this will be way too dangerous!
 [ml]: https://lists.hillhacks.in/mailman/listinfo/hillhackers
 [travel]: {% link travel.md %}
 [venue]: {% link venue.md %}
+[acco]: {% link accommodation.md %}
