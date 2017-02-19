@@ -131,15 +131,20 @@ body{
         font-size: 42px;
         color: #4E4E4E;
         letter-spacing: 4.5px;
-        line-height: 80px;
-	text-transform: uppercase;
+        text-transform: uppercase;
     }
     h3{
         font-family: 'Francois One', sans-serif;
         font-weight: 700;
         color: #4E4E4E;
-	text-transform: uppercase;
-	margin-top: 2ex;
+        text-transform: uppercase;
+        margin-top: 2ex;
+    }
+    h4{
+        font-family: 'Francois One', sans-serif;
+        font-weight: 700;
+        color: #4E4E4E;
+        margin-top: 2ex;
     }
     p{
         font-family: 'Lato', sans-serif;
@@ -152,6 +157,12 @@ body{
         letter-spacing: 1.65px;
         text-decoration: underline;
 
+    }
+    dl{
+        font-family: 'Lato', sans-serif;
+        color: #4E4E4E;
+        letter-spacing: 1.65px;
+        margin-top: 20px;
     }
     ul{
         font-family: 'Lato', sans-serif;
