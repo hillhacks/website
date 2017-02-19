@@ -10,9 +10,9 @@ hillhacks 2017 will take place at Surya Hotels Homestay near Bir, Himachal Prade
 <small><a href="https://www.openstreetmap.org/?mlat=32.0349&amp;mlon=76.7195#map=15/32.0349/76.7195&amp;layers=C" target="_blank">View larger map</a></small>
 
 Address
-: Surya Hotels Homestay<br>
-  Bir Billing<br>
-  Himachal Pradesh<br>
+: Surya Hotels Homestay  
+  Bir Billing  
+  Himachal Pradesh  
   India
 
 ^

@@ -58,7 +58,7 @@ A: Because it reverses the logical flow of conversation.
 Q: Why is top posting frowned upon?
 ```
 
-**Don't post large attachments.**<br>
+**Don't post large attachments.**  
 Please respect the fact that bandwidth is not infinite and that not everyone
 reads email through high-speed connections.  If you must share a large file,
 please upload it to a website and share a URL.

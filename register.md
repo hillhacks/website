@@ -32,7 +32,7 @@ Dates
 : 18-21 May 2017
 
 What to expect
-: Curated talks and workshops<br>
+: Curated talks and workshops  
   Evening entertainment
 
 The main conference schedule will be announced just prior to the event.
@@ -41,12 +41,12 @@ The main conference schedule will be announced just prior to the event.
 
 {: .dl-horizontal}
 Dates
-: 15-17 May 2017<br>
+: 15-17 May 2017  
   22-31 May 2017
 
 What to expect
-: Set up for the main conference<br>
-  Variety of sessions<br>
+: Set up for the main conference  
+  Variety of sessions  
   Clean up after the main conference
 
 #### School programme
