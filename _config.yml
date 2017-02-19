@@ -22,8 +22,8 @@ keywords: >
   security, futurism, architecture, freedom, art, hackbeach, himachal pradesh
 baseurl: ""
 url: "https://hillhacks.in/"
-twitter_username: hillhacks
-github_username:  https://github.com/hillhacks
+twitter_username: "hillhacks"
+github_username: "hillhacks"
 
 # Build settings
 markdown: kramdown

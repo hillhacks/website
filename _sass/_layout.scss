@@ -126,6 +126,10 @@
     padding-left: $spacing-unit / 2;
 }
 
+.footer-links {
+    list-style: none;
+}
+
 .footer-col-1 {
     width: -webkit-calc(35% - (#{$spacing-unit} / 2));
     width:         calc(35% - (#{$spacing-unit} / 2));
@@ -156,7 +160,6 @@
 
 @include media-query($on-palm) {
     .footer-col {
-        float: none;
         width: -webkit-calc(100% - (#{$spacing-unit} / 2));
         width:         calc(100% - (#{$spacing-unit} / 2));
     }
