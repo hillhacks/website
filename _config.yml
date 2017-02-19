@@ -27,3 +27,5 @@ github_username: "hillhacks"
 
 # Build settings
 markdown: kramdown
+kramdown:
+  hard_wrap: false

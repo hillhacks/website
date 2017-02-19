@@ -22,6 +22,11 @@ We are soliciting proposals for talks, workshops, and other sessions for the
 [conference](#main-conference), [unconference](#unconference) and [school
 programme](#school-programme).
 
+Submit a proposal for the 
+{% include btn-link.html label="Main Conference" href="#main-conference" %}
+{% include btn-link.html label="Unconference" href="#unconference" %}
+{% include btn-link.html label="School Programme" href="#school-programme" %}
+
 ### Main conference
 
 **Dates: 18-21 May 2017**
@@ -139,7 +144,7 @@ advance and we'll do our best to sort it out.
 ### School programme
 
 **Dates**:
-  
+
   **15-16 May 2017 (workshop for volunteers)**  
   **17-31 May (The school programme)**
 

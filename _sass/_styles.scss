@@ -101,7 +101,7 @@ body{
     border-color: #63c3d5;
     -webkit-transition-duration: 0.4s; /* Safari */
     transition-duration: 0.4s;
-    text-decoration: none;
+    text-decoration: none !important;
     &:hover {
       background-color: #4AA9BC;
       border-color: #4AA9BC;
@@ -118,7 +118,7 @@ body{
     padding: 15px;
     -webkit-transition-duration: 0.4s; /* Safari */
     transition-duration: 0.4s;
-    text-decoration: none;
+    text-decoration: none !important;
     &:hover {
       background-color: #4AA9BC;
       border-color: #4AA9BC;
@@ -156,6 +156,9 @@ body{
         text-transform: uppercase;
     }
     h3{
+        &:target {
+            padding-top: 60px;
+        }
         font-family: 'Francois One', sans-serif;
         font-weight: 700;
         color: #4E4E4E;
