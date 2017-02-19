@@ -21,33 +21,10 @@ permalink: /
             <div class="row homepage-gallery">
                 <div class="col-md-12 no-padding mt20">
                     <div class="row">
-                        <a href="{{site.baseurl}}/assets/images/img-1.png" data-toggle="lightbox" data-gallery="example-gallery" class="col-sm-4 col-xs-6 no-padding img-responsive">
-                            <img src="{{site.baseurl}}/assets/images/img-1.png" class="img-fluid">
-                        </a>
-                        <a href="{{site.baseurl}}/assets/images/img-2.png" data-toggle="lightbox" data-gallery="example-gallery" class="col-sm-4 col-xs-6 no-padding">
-                            <img src="{{site.baseurl}}/assets/images/img-2.png" class="img-fluid">
-                        </a>
-                        <a href="{{site.baseurl}}/assets/images/img-3.png" data-toggle="lightbox" data-gallery="example-gallery" class="col-sm-4 col-xs-6 no-padding">
-                            <img src="{{site.baseurl}}/assets/images/img-3.png" class="img-fluid">
-                        </a>
-                        <a href="{{site.baseurl}}/assets/images/img-4.png" data-toggle="lightbox" data-gallery="example-gallery" class="col-sm-4 col-xs-6 no-padding">
-                            <img src="{{site.baseurl}}/assets/images/img-4.png" class="img-fluid">
-                        </a>
-                        <a href="{{site.baseurl}}/assets/images/img-5.png" data-toggle="lightbox" data-gallery="example-gallery" class="col-sm-4 col-xs-6 no-padding">
-                            <img src="{{site.baseurl}}/assets/images/img-5.png" class="img-fluid">
-                        </a>
-                        <a href="{{site.baseurl}}/assets/images/img-6.png" data-toggle="lightbox" data-gallery="example-gallery" class="col-sm-4 col-xs-6 no-padding">
-                            <img src="{{site.baseurl}}/assets/images/img-6.png" class="img-fluid">
-                        </a>
-                         <a href="{{site.baseurl}}/assets/images/img-7.png" data-toggle="lightbox" data-gallery="example-gallery" class="col-sm-4 col-xs-6 no-padding">
-                            <img src="{{site.baseurl}}/assets/images/img-7.png" class="img-fluid">
-                        </a>
-                        <a href="{{site.baseurl}}/assets/images/img-8.png" data-toggle="lightbox" data-gallery="example-gallery" class="col-sm-4 col-xs-6 no-padding">
-                            <img src="{{site.baseurl}}/assets/images/img-8.png" class="img-fluid">
-                        </a>
-                        <a href="{{site.baseurl}}/assets/images/img-9.png" data-toggle="lightbox" data-gallery="example-gallery" class="col-sm-4 col-xs-6 no-padding">
-                            <img src="{{site.baseurl}}/assets/images/img-9.png" class="img-fluid">
-                        </a>
+                    {% for num in (1..9) %}
+                        {% capture image_href %}{{site.baseurl}}/assets/images/img-{{num}}.png{% endcapture %}
+                        {% include lightbox-image.html href=image_href %}
+                    {% endfor %}
                     </div>
                 </div>
             </div>
