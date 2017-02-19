@@ -1,0 +1,92 @@
+---
+layout: page
+title: FAQ
+permalink: /faq/
+---
+
+Over the years, some questions come up again and again.  Here they are, with
+answers.  Of course, if you don't see your question asked and answered, ask on
+the mailing list.
+
+### Should I bring...
+
+...my projects and tools?
+: Oh yes, you should!  Bring your whole project group and take a code retreat or
+  whatever needs to be done --- and get fruitful exchanges with the other
+  participants.  Please let us know what things you want to bring, so that we
+  can arrange appropriate space for you.
+^
+
+...my camping gear?
+: Yes, please!  Bring your tents, mattresses, sleeping bags, pillows, blankets.
+  We have some to share, but never enough.
+^
+
+...my trekking gear?
+: Yes, please!  Bring your shoes, backpacks, bottles, and all that stuff, and go
+  for as many treks and walks you can!
+^
+
+...my family?
+: You are welcome to bring your husband, kids, wife, parents, cousins, friends.
+  Please let us know the details in advance, so we can help to find appropriate
+  accommodation for you.  There are plenty of things to do for all ages and
+  interests.
+^
+
+...a spontaneous session?
+: Yes.  The unconference is all about spontaneous sessions.  During the main
+  conference days, priority is given to curated sessions, but you may be able to
+  schedule yourself into unused spaces.
+
+### When...?
+
+When can I come?
+: The unconference, school programme and set-up for the main conference all
+  begin on 15<sup>th</sup> May 2017.  We have the venue until 31<sup>st</sup>
+  May 2017.  If you would like to come earlier or stay later, you should make
+  your own arrangements.  Contact the [mailing list][ml] for pointers.
+^
+
+When is the main conference?
+: 18-21 May 2017.
+^
+
+How do I get there?
+: See the [Travel page][travel] for details.
+^
+
+### Managing expectations
+
+How cold will it be up there?
+: In general it will be around 25°C during the day and around 15°C at night.
+  Note that we are around 2000 metres above mean sea level, temperatures often
+  fall below 10°C. On the other hand they have been known to rise above to 30°C
+  too.  Weather varies, but it isn't monsoon season, so it (probably) won't rain
+  too much.
+^
+
+What about lodging and food?
+: See the [Venue page][venue] for details.
+^
+
+I am concerned that I am too young / too old / an introvert / a single female /
+a single male / a robot / something totally different.
+: Read our note on providing a safe and friendly place for everyone.  In
+  previous years, we had all age groups around, and nearly 50% of our core team
+  are female!  <!-- XXX: really? -->  As we are surrounded by the mountains, you
+  will always find enough space for yourself if needed.  You have found us, that
+  means you are in the right place, please feel welcome!
+^
+
+My family is concerned that this will be way too dangerous!
+: Please have a look at the blog posts from participants from previous hillhacks
+  editions, and maybe show them the report or project description.  If they are
+  primarily concerned about the travel, shout out on the [mailing list][ml]
+  There is a good chance that others will be travelling the same route around
+  the same time you intend to travel.
+^
+
+[ml]: https://lists.hillhacks.in/mailman/listinfo/hillhackers
+[travel]: {% link travel.md %}
+[venue]: {% link venue.md %}
