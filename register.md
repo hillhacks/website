@@ -19,7 +19,7 @@ We offer a sliding scale fee from Rs. 500-2000 per day which is paid in cash at
 the event.  No prepayment is required.
 
 We aim for transparency, so if you are interested in where your money goes,
-please [contact us]({{site.baseurl}}{% link contact-us.html %}) and we'll give
+please [contact us]({{site.baseurl}}{% link contact-us.md %}) and we'll give
 you a budget sheet.
 
 
