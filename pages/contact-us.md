@@ -7,7 +7,7 @@ permalink: /contact/
 Mailing list
 : Our main communication channel.  Moderate traffic on the list gets busier the
   closer we get to the event.  
-  [Join the mailing list]({% link mailinglist.md %})
+  [Join the mailing list]({% link pages/mailinglist.md %})
 ^
 
 Email

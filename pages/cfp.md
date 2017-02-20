@@ -59,7 +59,7 @@ Please submit your proposal in OSEM by **{{ page.deadline }}**.
 
 {% include btn-cfp.html %}
 
-Note that you must be [registered]({% link register.md %}) before you can submit
+Note that you must be [registered]({% link pages/register.md %}) before you can submit
 a proposal.
 
 #### When submitting a proposal please consider
@@ -234,7 +234,7 @@ Got questions?  Email away!
 [^5]: [Concrete matters](https://attic.hillhacks.in/2015/talk/concrete.matters)
 [^6]: [A Korean spring](https://attic.hillhacks.in/2016/talk/a_korean_spring)
 
-[ml]: {% link mailinglist.md %}
+[ml]: {% link pages/mailinglist.md %}
 [e]: mailto:mail@hillhacks.in
 [attic]: https://attic.hillhacks.in "Archived version of the old hillhacks wiki"
 *[OSEM]: Open Source Event Manager

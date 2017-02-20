@@ -88,7 +88,7 @@ My family is concerned that this will be way too dangerous!
   the same time you intend to travel.
 ^
 
-[ml]: {% link mailinglist.md %}
-[travel]: {% link travel.md %}
-[venue]: {% link venue.md %}
-[acco]: {% link accommodation.md %}
+[ml]: {% link pages/mailinglist.md %}
+[travel]: {% link pages/travel.md %}
+[venue]: {% link pages/venue.md %}
+[acco]: {% link pages/accommodation.md %}
