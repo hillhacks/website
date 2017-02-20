@@ -60,7 +60,7 @@ How do I get there?
 
 How cold will it be up there?
 : In general it will be around 25°C during the day and around 15°C at night.
-  Note that we are around 2000 metres above mean sea level, temperatures often
+  Note that we are around 2000 meters above mean sea level, temperatures often
   fall below 10°C. On the other hand they have been known to rise above to 30°C
   too.  Weather varies, but it isn't monsoon season, so it (probably) won't rain
   too much.
