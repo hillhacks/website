@@ -227,12 +227,12 @@ Got questions?  Email away!
 
 ### Links to previous edition highlights
 
-[^1]: [What activists don't understand about net neutrality](https://hillhacks.in/2015/talk/what.activists.don.t.understand.about.net.neutrality.looking.network.economics.human.rights)
-[^2]: [The great indian surveillance paradox](https://hillhacks.in/2015/talk/the.great.indian.surveillance.paradox)
-[^3]: [Intro to lambda calculus](https://hillhacks.in/2015/talk/introduction.to.lambda.calculus)
-[^4]: [Multi-material 3D printing](https://hillhacks.in/2014/session/multi.material.3d.printing)
-[^5]: [Concrete matters](https://hillhacks.in/2015/talk/concrete.matters)
-[^6]: [A Korean spring](https://hillhacks.in/2016/talk/a_korean_spring)
+[^1]: [What activists don't understand about net neutrality](https://attic.hillhacks.in/2015/talk/what.activists.don.t.understand.about.net.neutrality.looking.network.economics.human.rights)
+[^2]: [The great indian surveillance paradox](https://attic.hillhacks.in/2015/talk/the.great.indian.surveillance.paradox)
+[^3]: [Intro to lambda calculus](https://attic.hillhacks.in/2015/talk/introduction.to.lambda.calculus)
+[^4]: [Multi-material 3D printing](https://attic.hillhacks.in/2014/session/multi.material.3d.printing)
+[^5]: [Concrete matters](https://attic.hillhacks.in/2015/talk/concrete.matters)
+[^6]: [A Korean spring](https://attic.hillhacks.in/2016/talk/a_korean_spring)
 
 [ml]: {% link mailinglist.md %}
 [e]: mailto:mail@hillhacks.in
