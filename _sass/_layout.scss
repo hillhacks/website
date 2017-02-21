@@ -98,7 +98,8 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
+    border-top: 1px solid $nav-border-color;
+    background-color: $nav-background-color;
     padding: $spacing-unit 0;
 }
 
@@ -108,14 +109,15 @@
 }
 
 .contact-list,
-.social-media-list {
+.social-media-list,
+.footer-links {
     list-style: none;
     margin-left: 0;
 }
 
 .footer-col-wrapper {
     font-size: 15px;
-    color: $grey-color;
+    color: $nav-text-color;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
 }

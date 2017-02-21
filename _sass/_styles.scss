@@ -4,8 +4,8 @@
 }
 /* navbar */
 .hillhacks-nav{
-    background-color: #393c50;
-    border-color: #393c50;
+    background-color: $nav-background-color;
+    border-color: $nav-border-color;
     font-family: 'Lato', sans-serif;
     font-size: 16px;
 
@@ -19,15 +19,15 @@
     }
 
     li a {
-        color: #fcfcfc !important;
+        color: $nav-text-color !important;
     }
 
     .navbar-brand {
-        color: #fcfcfc;
+        color: $nav-text-color;
         font-size: 35px;
 
         &:hover {
-            color: #fcfcfc;
+            color: $nav-text-color;
         }
     }
 
@@ -56,7 +56,7 @@
         background-color: #44475d;
 
         & a:hover {
-            background-color: #393c50 !important;
+            background-color: $nav-background-color !important;
         }
     }
 }
@@ -290,6 +290,13 @@ a.reversefootnote {
 
 .text-decor-none{
     text-decoration: none !important;
+}
+
+.footer a{
+    color: $nav-text-color;
+    &:hover{
+        color: $nav-text-color;
+    }
 }
 
 /* .no-margin{
