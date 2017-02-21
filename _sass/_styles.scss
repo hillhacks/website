@@ -33,18 +33,18 @@
 
     .cta-2-xs{
         font-family: 'Lato', sans-serif;
-        background: #ffffff;
+        background: none;
         border-radius: 4px;
-        border-color: #63BED5;
+        border-color: #e55438;
         -webkit-transition-duration: 0.4s; /* Safari */
         transition-duration: 0.4s;
-        color: #63BED5;
+        color: #e55438;
         font-size: 16px;
         margin-top: 12px;
         margin-bottom: 0px;
         &:hover {
-          background-color: #63BED5;
-          border-color: #47A8C1;
+          background-color: #e55438;
+          border-color: #e55438;
           color: #ffffff;
         }
         a{
@@ -106,7 +106,7 @@ body{
     h1{
        font-family: 'Roboto Mono', monospace;
        color: #fcfcfc;
-       font-size: 35px;
+       font-size: 30px;
     }
     h3{
         font-family: 'Lato', sans-serif;
