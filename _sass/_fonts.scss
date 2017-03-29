@@ -1,0 +1,31 @@
+/**
+ * font definitions
+ */
+
+@font-face {
+    font-family: 'Roboto Mono';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Roboto Mono Bold'), local('RobotoMono-Bold'), url(/fonts/robotomono/RobotoMono-Bold.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Lato Light'), local('Lato-Light'), url(/fonts/lato/Lato-Light.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Lato Regular'), local('Lato-Regular'), url(/fonts/lato/Lato-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Francois One';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Francois One Regular'), local('FrancoisOne-Regular'), url(/fonts/francoisone/FrancoisOne-Regular.ttf) format('truetype');
+}
