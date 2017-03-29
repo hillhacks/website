@@ -6,7 +6,7 @@
 .hillhacks-nav{
     background-color: $nav-background-color;
     border-color: $nav-border-color;
-    font-family: 'Lato', sans-serif;
+    font-family: $base-font-family;
     font-size: 16px;
 
     .logo {
@@ -32,7 +32,7 @@
     }
 
     .cta-2-xs{
-        font-family: 'Lato', sans-serif;
+        font-family: $base-font-family;
         background: none;
         border-radius: 4px;
         border-color: #e55438;
@@ -104,12 +104,12 @@ body{
 
 .header{
     h1{
-       font-family: 'Roboto Mono', monospace;
+       font-family: monospace;
        color: #fcfcfc;
        font-size: 30px;
     }
     h3{
-        font-family: 'Lato', sans-serif;
+        font-family: $base-font-family;
         font-weight: 300;
         font-size: 24px;
         color: #BBCBEC;
@@ -131,7 +131,7 @@ body{
 }
 
 .cta-0{
-    font-family: 'Lato', sans-serif;
+    font-family: $base-font-family;
     background-color: #63c3d5;
     color: #fff !important;
     border-radius: 10px;
@@ -146,7 +146,7 @@ body{
 }
 
 .cta-1{
-    font-family: 'Lato', sans-serif;
+    font-family: $base-font-family;
     background: #63C3D5;
     color: #fff !important;
     border-radius: 4px;
@@ -163,7 +163,7 @@ body{
 }
 
 .cta-2{
-    font-family: 'Lato', sans-serif;
+    font-family: $base-font-family;
     background: #D563A0;
     border-radius: 10px;
     border-color: #D563A0;
@@ -209,35 +209,35 @@ body{
         margin-top: 2ex;
     }
     p{
-        font-family: 'Lato', sans-serif;
+        font-family: $base-font-family;
         color: #4E4E4E;
         letter-spacing: 1.65px;
     }
     a{
-        font-family: 'Lato', sans-serif;
+        font-family: $base-font-family;
         color: #4AA9BC;
         letter-spacing: 1.65px;
         text-decoration: underline;
 
     }
     dl{
-        font-family: 'Lato', sans-serif;
+        font-family: $base-font-family;
         color: #4E4E4E;
         letter-spacing: 1.65px;
         margin-top: 20px;
     }
     ol{
-        font-family: 'Lato', sans-serif;
+        font-family: $base-font-family;
         color: #4E4E4E;
         letter-spacing: 1.65px;
     }
     ul{
-        font-family: 'Lato', sans-serif;
+        font-family: $base-font-family;
         color: #4E4E4E;
         letter-spacing: 1.65px;
     }
     table{
-       font-family: 'Lato', sans-serif;
+       font-family: $base-font-family;
         color: #4E4E4E;
         letter-spacing: 1.65px;
         margin-top: 20px;
@@ -305,6 +305,3 @@ a.reversefootnote {
     margin-right: 0px;
     margin-bottom: 0px;
 } */
-
-
-
