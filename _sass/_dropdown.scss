@@ -1,0 +1,143 @@
+$keyBreakpoint: 48em;
+
+// no-js - hide button navbar toggle - use anchor for :target benefit
+.no-js .navbar-header button {
+	display: none;
+}
+
+// hide anchor trigger - button is better
+.js .navbar-header a.navbar-toggle {
+	display: none;
+}
+
+// no-js - override BS styles so non-sighted users can get to sub nav items on larger screens
+.no-js .dropdown-menu {
+	display: block;
+	top: -9999em;
+	left: -9999em;
+}
+
+// no-js - override BS styles so hover will show subnav items on larger screens
+.no-js .dropdown:hover .dropdown-menu {
+	display: block !important;
+	top: auto;
+	left: auto;
+}
+
+// no-js - support for tertiary level
+.no-js .dropdown-menu li:hover .sub-menu {
+	visibility: visible;
+}
+
+// no-js - handle show/hide nav on small screens using :target
+.no-js #main-navigation:target {
+	display: block;
+}
+
+// no-js - make visually hidden subnav visible on small screens 
+@media(max-width: $keyBreakpoint){
+	.no-js .dropdown-menu { 
+		top: auto;
+		left: auto;
+		position: relative;
+		width: 100%;
+		background: transparent;
+	}
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Opinionated styles - not needed
+.navbar-inverse {
+	border-radius: 0;
+}
+
+#main-navigation li a { 
+	color: #fff !important; 
+}
+
+#main-navigation li li a { 
+	color: #000 !important; 
+}
+
+#main-navigation li li a:focus,
+#main-navigation li li a:hover {
+	background-color: #000;
+	color: #fff !important;
+}
+
+#main-navigation a:focus, 
+.navbar-toggle:focus,
+.navbar-brand:focus {
+	outline: 1px solid #fff;
+	background-color: #000;
+	color: #fff !important;
+}
+
+@media(max-width: $keyBreakpoint){
+	.no-js .dropdown-menu {
+		display: block !important;
+		top: auto;
+		left: auto;
+		box-shadow: none;
+		border: 0;
+		margin-bottom: 1em;
+	}
+	#main-navigation li a { 
+		color: #fff !important; 
+	}
+	#main-navigation li li a { 
+		color: #fff !important;
+		&:hover { background-color: transparent !important; }
+	}
+}

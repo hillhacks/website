@@ -44,19 +44,12 @@
 
 </footer>
 
-    <script src="https://code.jquery.com/jquery-3.1.1.min.js"
-      integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
-      crossorigin="anonymous"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
-      integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
-      crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.1.1/ekko-lightbox.min.js"
-      integrity="sha256-1odJPEl+KoMUaA1T7QNMGSSU/r5LCKCRC6SL8P0r2gY="
-      crossorigin="anonymous"></script>
-
-    <script>
-      $(document).on('click', '[data-toggle="lightbox"]', function(event) {
-        event.preventDefault();
-        $(this).ekkoLightbox();
-      });
-    </script>
+<script src="/js/lightbox.min.js"
+  integrity="sha384-tgzBt/Q2sgnGSgKPCixljOVS2Iwpt7NN3ca3ni/OhCTdLKXsGQOfZ5Lf6Fg0vTQr"></script>
+<script>
+  var lightbox = new Lightbox();
+  lightbox.load({
+    hideCloseBtn: true,
+    hideOverflow: true
+  });
+</script>
