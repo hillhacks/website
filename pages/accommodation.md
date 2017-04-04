@@ -14,21 +14,26 @@ the [mailing list][ml].
 
 **This is the preferred option.**
 
-Bring your tent!  Enjoy the great outdoors!  There is a lot of camping space
-around the venue.  You can use the sanitary facilities of the venue.  There is
-also a stream a short walk away.
+Enjoy the great outdoors.  Camping facilities on the property are limited to
+about 50 tents, so this is first-come, first-served.  When the campsite is
+filled, we will identify fresh camping spots; you will need to pay a minimal
+charge to the property owner directly.
 
-You will need to bring your own tent, sleeping mat and sleeping bag.
+You must bring your own tent, sleeping mat and sleeping bag.  We will not be
+able to provide tents this year.  If you do not own a tent yet, cheap tents can
+be bought at Decathlon.  In previous years, local attendees have offered to
+bulk-buy tents for people and bring them to the venue.  Please discuss on the
+[mailing list][ml].
 
-If you do not own a tent yet, cheap tents can be bought at Decathlon.  In
-previous years, local attendees have offered to bulk-buy tents for people and
-bring them to the venue.  Please discuss on the [mailing list][ml].
-
+You will be able to share sanitary facilities in the main venue and there is a
+stream a short distance away.
 
 ### Stay nearby
 
-There are plenty of homestays and hotels in and around Bir Billing.  Use your
-favourite search engine to find a place that fits your needs and your budget.
+If you come without a tent, you must find accommodation nearby.  There are
+plenty of homestays and hotels in and around Bir Billing.  Booking in advance is
+recommended.  Use your favourite search engine or app to find a space that suits
+your needs and budget.
 
 
 ### On-site rooms
