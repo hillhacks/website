@@ -71,6 +71,11 @@ What about lodging and food?
 <!-- This says nothing about food!  We need to know about food! -->
 ^
 
+I am a foreign national.  Do I need a Protected Area Permit (PAP)?
+: Not if you are camping on-site.  Read the relevant section on the
+[Accommodation page][acco] for more details.
+^
+
 I am concerned that I am too young / too old / an introvert / a single female /
 a single male / a robot / something totally different.
 : Read our note on providing a safe and friendly place for everyone.  In
