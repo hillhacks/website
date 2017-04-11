@@ -162,6 +162,7 @@ body{
     -webkit-transition-duration: 0.4s; /* Safari */
     transition-duration: 0.4s;
     text-decoration: none !important;
+    text-transform: uppercase;
     &:hover {
       background-color: #4AA9BC;
       border-color: #4AA9BC;

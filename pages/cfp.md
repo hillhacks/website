@@ -23,9 +23,9 @@ We are soliciting proposals for talks, workshops, and other sessions for the
 programme](#school-programme).
 
 Submit a proposal for the 
-{% include btn-link.html label="Main Conference" href="#main-conference" %}
+{% include btn-link.html label="Main conference" href="#main-conference" %}
 {% include btn-link.html label="Unconference" href="#unconference" %}
-{% include btn-link.html label="School Programme" href="#school-programme" %}
+{% include btn-link.html label="School programme" href="#school-programme" %}
 
 ### Main conference
 
