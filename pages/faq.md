@@ -8,6 +8,9 @@ Over the years, some questions come up again and again.  Here they are, with
 answers.  Of course, if you don't see your question asked and answered, ask on
 the mailing list.
 
+* TOC
+{:toc}
+
 ### Should I bring...
 
 ...my projects and tools?
@@ -91,6 +94,28 @@ My family is concerned that this will be way too dangerous!
   primarily concerned about the travel, shout out on the [mailing list][ml]
   There is a good chance that others will be travelling the same route around
   the same time you intend to travel.
+^
+
+### Sliding scale
+
+Contribution
+: This event is solely community driven and run by volunteers. Please see where else
+  you can contribute too! This democratic (or even meritocratic) approach is mirrored
+  on every layer, and so is it for the money bit, too.
+^
+
+Types of financial contribution
+: We want to provide everyone the opportunity to come, so we kindly ask everyone to
+  give as much as s/he can afford.
+^
+
+What does that mean?
+: We have four levels of contributions. Please choose the one that suits your budget.
+
+  * Base: can be 0, if you cannot afford otherwise
+  * Reasonable: covers basic costs of food and lodging
+  * Nice: all costs covered, including infrastructure and tools
+  * Supporter: you support others that cannot afford their travel, stay and food
 ^
 
 [ml]: {% link pages/mailinglist.md %}
