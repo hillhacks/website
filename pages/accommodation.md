@@ -58,19 +58,19 @@ particular needs (injury, illness, infants, etc.).
 
 ### FAQ: Do foreign nationals need a Protected Area Permit (PAP)?
 
-Please be aware that foreign nationals require a Protected Area Permit (PAP) for
-overnight stays in certain sections of the Bir area.
+Please be aware that foreign nationals require a Protected Area Permit (PAP) for being out at night in the surrounding areas.
 
-*Our hillhacks campsite **does not** require foreign nationals to get a permit.*
+Our hillhacks campsite _does not_ require foreign nationals to get a permit.
+However, the nearby surround village (which has all the restaurants) does require a permit post sunset.
 
-If you are staying elsewhere, it is your responsibility to check with your
-accommodation to see if they fall within the area.  If so, you will need to
-apply for a permit at the District Commissioner's (DC) Office in Lower
-Dharamsala, about two hours driving from Bir.
+You can hand over 2 photographs and a copy of your passport at the registration desk to apply for a PAP. 
 
 Further [details on the PAP application][pap_details]{:target="_blank"}
-are available on the Deer Park Institute website.
+are available on the Deer Park Institute website. 
+
+**Indian Citizens** camping at the main venue will need to hand over a copy of their identity proof. If you are staying elsewhere, this is not required.
 
 [ml]: {% link pages/mailinglist.md %}
 [e]: mailto:mail@hillhacks.in
 [pap_details]: http://deerpark.in/practical-information/permit-for-foreign-nationals/
+*[PAP]: Protected Area Permit
