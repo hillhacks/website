@@ -4,7 +4,7 @@ title: Getting to hillhacks
 permalink: /travel/
 ---
 
-Travel to Bir can involve planes, trains, buses, and/or taxi.
+Travel to Bir can involve planes, trains, buses, and/or taxi. **Once you have reached Bir, see the venue details at [the venue page][venue] for more instructions.**
 
 ### By plane
 
@@ -113,7 +113,6 @@ off at Chowgan Chowk (the intersection where Bir Road meets Chowgan Road), and
 then walk west on Chowgan Road about 1km until you reach the Tibetan Colony
 (about 10 minutes on foot).
 
-
 ### By taxi
 
 Taxi is the fastest and most convenient way of getting to Bir from Pathankot or
@@ -138,3 +137,5 @@ From Bir Road to Upper Bir
 
 [^1]: The closest stop for most long-distance buses to Chowgan (including the
       Tibetan Colony or Deer Park).
+
+[venue]: {{site.baseurl}}/where/

@@ -23,3 +23,7 @@ IRC
 
 Twitter
 : [@hillhacks](https://twitter.com/hillhacks?lang=en){:target="_blank"}
+
+Phone
+: Nemo ([+919458113956](tel:_919458113956_))
+: Samir ([+919496181866](tel:+919496181866))

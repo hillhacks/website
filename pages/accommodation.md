@@ -63,12 +63,18 @@ Please be aware that foreign nationals require a Protected Area Permit (PAP) for
 Our hillhacks campsite _does not_ require foreign nationals to get a permit.
 However, the nearby surround village (which has all the restaurants) does require a permit post sunset.
 
-You can hand over 2 photographs and a copy of your passport at the registration desk to apply for a PAP. 
+To apply for a PAP, submit the following at the registration desk:
+
+- 2 passport size color photographs
+- 2 copies of your passport (B/W photocopies should do)
+- 2 photocopes of your Indian Visa.
+
+You can get photocopies done nearby, and there is a shop (Digital Seva) near Hotel Surya Classic where you can get passport photos made.
 
 Further [details on the PAP application][pap_details]{:target="_blank"}
 are available on the Deer Park Institute website. 
 
-**Indian Citizens** camping at the main venue will need to hand over a copy of their identity proof. If you are staying elsewhere, this is not required.
+**Indian Citizens** staying at the main venue will need to hand over a copy of their identity proof. If you are staying elsewhere, _we don't need it_, but your hotel may.
 
 [ml]: {% link pages/mailinglist.md %}
 [e]: mailto:mail@hillhacks.in

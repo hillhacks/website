@@ -4,10 +4,11 @@ title: Venue
 permalink: /where/
 ---
 
-hillhacks 2017 will take place at Surya Hotels Homestay near Bir, Himachal Pradesh, India.
+hillhacks 2017 will take place at Surya Hotels Homestay near Bir, Himachal Pradesh, India. The nearest Bus Stop is "Chougan Chowk".
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=76.7014789581299%2C32.02113942239529%2C76.73752784729005%2C32.048715769562506&amp;layer=cyclemap&amp;marker=32.034928634078526%2C76.71950340270996"></iframe>
-<small><a href="https://www.openstreetmap.org/?mlat=32.0349&amp;mlon=76.7195#map=15/32.0349/76.7195&amp;layers=C" target="_blank">View larger map</a></small>
+From Chougan Chowk, take the left to Colouny Road. Once you are on the Colouny Road, take the right next to the Monastery and then the next left. See the map below for further help.
+
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=76.71391367912292%2C32.03224553986902%2C76.7249643802643%2C32.037493416741846&amp;layer=mapnik&amp;marker=32.03486496834686%2C76.7194390296936" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=32.03486&amp;mlon=76.71944#map=17/32.03487/76.71944">View Larger Map</a></small>
 
 Address
 : Surya Hotels Homestay  
@@ -21,8 +22,6 @@ GPS coordinates
 
 Altitude
 : 1525 m
-
-^
 
 ### Some photos
 
