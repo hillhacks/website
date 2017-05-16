@@ -11,7 +11,19 @@ layout: default
                 </header>
 
                 <div class="post-content">
-                     {{ content }}
+                    {{ content }}
+
+                    {% if page.edit != false %}
+                    <hr/>
+                    <p class="edit-helper">
+
+                        You can submit an improvement to this page by
+                        <a href="https://github.com/hillhacks/website/blob/master/{{page.path}}"
+                        title="Click the Pencil, the link takes you directly to the correct page">visiting GitHub</a>.
+                        You will need to fork the website and submit a Pull Request.
+                        If you don't want to use a GitHub account, feel free to submit a patch on the mailing list.
+                    </p>
+                {% endif %}
                 </div>
             </article>
         </div>
