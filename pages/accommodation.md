@@ -72,7 +72,11 @@ To apply for a PAP, submit the following at the registration desk:
 You can get photocopies done nearby, and there is a shop (Digital Seva) near Hotel Surya Classic where you can get passport photos made.
 
 Further [details on the PAP application][pap_details]{:target="_blank"}
-are available on the Deer Park Institute website. 
+are available on the Deer Park Institute website. You can submit these
+documents at the Registration Desk and we will get you the permit
+via an agent (who is charging us 500 INR/permit). Alternatively,
+you can apply for the permit in person at Dharamshala. See the above-mentioned
+Deer Park website for how.
 
 **Indian Citizens** staying at the main venue will need to hand over a copy of their identity proof. If you are staying elsewhere, _we don't need it_, but your hotel may.
 
