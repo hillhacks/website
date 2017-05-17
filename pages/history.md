@@ -8,11 +8,13 @@ hillhacks began in 2013 as a conversation between Ritu and Tenzin, founders of
 the [Dharamsala International Film Festival][1], and Akiba, a hacker/maker from
 [Freaklabs][2] in Japan.  It soon expanded to include Ayush Ghai from
 [Ghoomakad][3] (Infinity Hackbase) in nearby Rakkar, and sva from Germany.
-Within a year the first hillhacks took place.
+Within a year the first hillhacks took place. You can find a more detailed timeline of
+hillhacks including its beginnings here[4].
 
 [1]: http://diff.co.in/
 [2]: http://www.freaklabs.org/
 [3]: http://ghoomakad.com/
+[4]: https://attic.hillhacks.in/timeline
 
 ### hillhacks 0
 
