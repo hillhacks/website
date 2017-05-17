@@ -5,7 +5,8 @@ permalink: /pads/
 edit: false
 ---
 
-We have the following pads listed:
+We use these pads for volatile information that is helpful
+to hillhackers on the venue. We have the following pads listed:
 
 ### 2017
 
