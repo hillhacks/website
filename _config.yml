@@ -24,6 +24,7 @@ baseurl: ""
 url: "https://hillhacks.in"
 twitter_username: "hillhacks"
 github_username: "hillhacks"
+schedule: https://osem.hillhacks.in/conferences/hillhacks2017/schedule
 
 # Build settings
 markdown: kramdown
