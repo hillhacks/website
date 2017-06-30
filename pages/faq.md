@@ -46,13 +46,13 @@ the mailing list.
 
 When can I come?
 : The unconference, school programme and set-up for the main conference all
-  begin on 15<sup>th</sup> May 2017.  We have the venue until 31<sup>st</sup>
-  May 2017.  If you would like to come earlier or stay later, you should make
+  begin on 18<sup>th</sup> May 2018.  We have the venue until 31<sup>st</sup>
+  May 2018.  If you would like to come earlier or stay later, you should make
   your own arrangements.  Contact the [mailing list][ml] for pointers.
 ^
 
 When is the main conference?
-: 18-21 May 2017.
+: 24-27 May 2018.
 ^
 
 How do I get there?
