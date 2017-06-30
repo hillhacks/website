@@ -6,6 +6,8 @@ permalink: /participate/
 deadline: 16 April 2017
 ---
 
+*Note*: This is the CFP archive for 2017.
+
 ### TL;DR
 
 Submit your proposals in OSEM by **{{ page.deadline }}**.
