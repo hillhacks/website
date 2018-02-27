@@ -4,7 +4,7 @@ title: Venue
 permalink: /where/
 ---
 
-hillhacks 2017 will take place at Surya Hotels Homestay near Bir, Himachal Pradesh, India. The nearest Bus Stop is "Chougan Chowk".
+hillhacks 2018 will take place at Surya Hotels Homestay near Bir, Himachal Pradesh, India. The nearest Bus Stop is "Chougan Chowk".
 
 From Chougan Chowk, take the left to Colouny Road. Once you are on the Colouny Road, take the right next to the Monastery (you should pink decorated trees) and then the next left (more pink trees). See the map below for further help.
 
