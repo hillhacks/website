@@ -19,10 +19,10 @@ There is a **day pass** for people staying off-site and a **camping pass** for
 those camping on-site.  As always, we offer a sliding scale on both of these
 passes to allow everyone to participate.
 
-All passes cover lunch, access to daily talks, workshops, and activities plus
-costs like equipment rentals, facilities rent, shade structures, electricity,
-internet and consumables.  The camping pass also includes a tent space and the
-use of shared bathing facilities.
+All passes cover breakfast, access to daily talks, workshops, and activities
+plus costs like equipment rentals, facilities rent, shade structures,
+electricity, internet and consumables.  The camping pass also includes a tent
+space and the use of shared bathing facilities.
 
 {: .table}
 |                  | Suggested   | Sliding scale    |
