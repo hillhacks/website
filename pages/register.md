@@ -11,7 +11,7 @@ Click the button below to register in OSEM and let us know that you are coming.
 {% include btn-register.html %}
 
 When you have registered, you will be able to submit proposals for
-presentations, workshops and school programme sessions.
+presentations and workshops sessions.
 
 ### Event costs
 
@@ -61,14 +61,5 @@ What to expect
 : Set up for the main conference  
   Variety of sessions  
   Clean up after the main conference
-
-#### School programme
-
-What to expect
-: School visits of one day and longer
-
-The school programme will be scheduled based on schools' interest and
-availability of volunteers.
-
 
 *[OSEM]: Open Source Event Manager
