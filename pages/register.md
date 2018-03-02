@@ -27,8 +27,8 @@ space and the use of shared bathing facilities.
 {: .table}
 |                  | Suggested   | Sliding scale    |
 |------------------|-------------|------------------|
-| **Day pass**     | Rs. 600/day | Rs. 300-1800/day |
-| **Camping pass** | Rs. 800/day | Rs. 500-2000/day |
+| **Day pass**     | Rs. xxx/day | Rs. 300-1800/day |
+| **Camping pass** | Rs. xxx/day | Rs. 500-2000/day |
 
 ### How to pay
 We accept cash at the event.
