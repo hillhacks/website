@@ -4,7 +4,7 @@ title: Call for participation
 permalink: /participate/
 ---
 
-### Context setting
+### Context
 
 hillhacks is an annual, community-run event that provides a safe space for curious people to explore hacker culture. By hacking, we don't necessarily refer to breaking into computer systems, but to the playful and creative pursuit of:
 
