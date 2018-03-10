@@ -95,7 +95,7 @@ body{
 .header{
     position: relative;
     width: 100%;
-    height: 570px;
+    height: 700px;
     min-height: auto;
     text-align: center;
     color: #fff;
@@ -162,7 +162,7 @@ body{
     -webkit-transition-duration: 0.4s; /* Safari */
     transition-duration: 0.4s;
     text-decoration: none !important;
-    text-transform: uppercase;
+    // text-transform: uppercase;
     &:hover {
       background-color: #4AA9BC;
       border-color: #4AA9BC;
@@ -171,10 +171,11 @@ body{
 
 .cta-2{
     font-family: $base-font-family;
-    background: #D563A0;
-    border-radius: 10px;
+    // background: #D563A0;
+    background: #d55d43;
+    // border-radius: 10px;
     border-color: #D563A0;
-    margin-top: 20px;
+    // margin-top: 20px;
     padding: 15px;
     -webkit-transition-duration: 0.4s; /* Safari */
     transition-duration: 0.4s;
@@ -182,6 +183,10 @@ body{
       background-color: #BC4E89;
       border-color: #BC4E89;
     }
+}
+
+.cta-row {
+    margin-top: 50px;
 }
 
 .section-white{
