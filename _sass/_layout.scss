@@ -223,6 +223,12 @@
     }
 }
 
+@media (min-width: 768px) {
+  .post-content {
+      width: 60%;
+    }
+}
+
 .post-content {
     margin-bottom: $spacing-unit;
 
