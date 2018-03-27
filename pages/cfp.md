@@ -7,14 +7,14 @@ permalink: /participate/
 
 ### Context
 
-hillhacks is an annual, community-run event that provides a space for exploring [hacker culture](https://en.wikipedia.org/wiki/Hacker_culture). Hacker culture is an approach to interacting with technology, art and society. Broadly, it refers to a playful and creative approach of:
+hillhacks is an annual, community-run event that provides a space for exploring [hacker culture](https://en.wikipedia.org/wiki/Hacker_culture). Broadly, it refers to a playful and creative approach of:
 
 - taking things apart to figure out how they work;
 - making and modifying things to suit _our_ needs;
 - finding a clever way of solving a problem, as opposed to brute force or an expensive way;
 - sharing what we learn and make with fellow participants
 
-We are seeking proposals for talks, workshops and discussion sessions for the main programme at hillhacks. The sessons don't necessarily have to be about technology! Over the past four editions, there have been artists, architects, human rights activists, performance artists, hardware and software engineers and designers who've participated at hillhacks.
+We are seeking proposals for talks, workshops and discussion sessions for the main programme at hillhacks. We are especially interested in sessions that explore intesections between technology, art and society.
 
 Some ideas for topics:
 
@@ -25,6 +25,8 @@ Some ideas for topics:
 5. Life skills: Cooking, Nutrition, Fitness, Tidying up, Making a fire, Writing, Public speaking.
 
 Please note that the above list is limited by the writer's imagination. It only serves to stimulate ideas in you. Topics not in the above list are _more_ than welcome.
+
+The sessons don't necessarily have to be about technology! Over the past four editions, there have been artists, architects, human rights activists, performance artists, hardware and software engineers and designers who've participated at hillhacks.
 
 If you're new to hillhacks, you might find the following links useful to get a taste of the kind of conversations we've had in the past:
 
