@@ -4,23 +4,19 @@ title: Call for participation
 permalink: /participate/
 ---
 
+
 ### Context
 
-hillhacks is an annual, community-run event that provides a safe space for curious people to explore hacker culture. By hacking, we don't necessarily refer to breaking into computer systems, but to the playful and creative pursuit of:
+hillhacks is an annual, community-run event that provides a space for exploring [hacker culture](https://en.wikipedia.org/wiki/Hacker_culture). Hacker culture is an approach to interacting with technology, art and society. Broadly, it refers to a playful and creative approach of:
 
 - taking things apart to figure out how they work;
-- making things to suit _our_ needs;
-- sharing what we learn with fellow participants.
+- making and modifying things to suit _our_ needs;
+- finding a clever way of solving a problem, as opposed to brute force or an expensive way;
+- sharing what we learn and make with fellow participants
 
-The primary area of focus is the intersection of technology and art, culture and society. Over the past four editions, we've hosted artists, architects, human rights activists, performance artists, hardware and software engineers and designers, to name a few. If you're generally curious about how things work and eager to _make_ things, you will feel at home.
+We are seeking proposals for talks, workshops and discussion sessions for the main programme at hillhacks. The sessons don't necessarily have to be about technology! Over the past four editions, there have been artists, architects, human rights activists, performance artists, hardware and software engineers and designers who've participated at hillhacks.
 
-We are seeking proposals for talks, workshops and discussion sessions related to the following general theme: understanding how systems work, how we can make them work for _us_ and how we can design and build new versions that work better. Sessions don't have to be directly related to technology per se.
-
-If you're in doubt about whether your proposal is relevant, please go ahead and propose! It will likely be relevant. For instance, we host entertainment sessions during the evening, usually featuring hillhackers who practice music or dance as a hobby. So, if you'd like to contribute to just the entertainment sessions, you're very welcome to!
-
-At hillhacks, you will find a bunch of generally smart and friendly people who will engage well and give you good feedback on your ideas. While we'll do our best to make hillhacks an open, safe and useful space for everyone, your experience will also depend on what you make of it. We request you to propose both scheduled and impromptu sessions, volunteer for short periods of time and help make the space excellent for everyone.
-
-### Ideas for topics
+Some ideas for topics:
 
 1. Hands-on making: Solar-powered LED lanterns, conference badges with LED screens, custom tables or chairs (we can possibly arrange for equipment), Hula hoops with LED strips, interactive installations.
 2. Privacy & surveillance: national identification schemes, data protection (see GDPR), building a more secure and decentralized internet, safeguarding our privacy, surveillance at the work place.
@@ -28,7 +24,7 @@ At hillhacks, you will find a bunch of generally smart and friendly people who w
 4. Life experiences: stories from your career, side projects, travels that other participants could learn from.
 5. Life skills: Cooking, Nutrition, Fitness, Tidying up, Making a fire, Writing, Public speaking.
 
-Please note that the above list is limited by our imagination. It only serves to stimulate ideas in you. Topics not in the above list are _more_ than welcome.
+Please note that the above list is limited by the writer's imagination. It only serves to stimulate ideas in you. Topics not in the above list are _more_ than welcome.
 
 If you're new to hillhacks, you might find the following links useful to get a taste of the kind of conversations we've had in the past:
 
