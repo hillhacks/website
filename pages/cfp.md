@@ -4,6 +4,9 @@ title: Call for participation
 permalink: /participate/
 ---
 
+### Latest updates
+
+See <a href="{{site.baseurl}}/sessions/">confirmed sessions</a>. CFP is still open.
 
 ### Context
 

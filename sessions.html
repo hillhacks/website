@@ -1,0 +1,32 @@
+---
+layout: default
+title: "hillhacks: confirmed sessions"
+permalink: /sessions
+---
+<div class="row">
+    <div class="col-md-10 col-md-offset-1 font-size-md">
+        <div class="section-white">
+            <div class="row homepage-gallery">
+                <div class="col-md-12 no-padding mt20">
+                    <div class="row">
+                        <div class="post-content">
+                            <h2 class='page-header'>Confirmed sessions</h2>
+                            <hr />
+                            {% for talk in site.data.hillhacks_18_sessions %}
+                                <h3 class='talk-title'>
+                                    {{talk.title}}
+                                </h3>
+                                <h4 class='speaker'>
+                                    Speaker: {{talk.speaker}}
+                                </h4>
+                                <p>
+                                    {{talk.abstract}}
+                                </p>
+                            {% endfor %}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
