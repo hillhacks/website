@@ -11,9 +11,21 @@ permalink: /sessions/
                     <div class="row">
                         <div class="post-content">
                             <h2 class='page-header'>Confirmed sessions</h2>
-                            <hr />
+                            <h4 class='speaker'>Index</h3>
                             {% for talk in site.data.hillhacks_18_sessions %}
-                                <h3 class='talk-title'>
+                                <ul>
+                                    <li>
+                                        <a href='#{{talk.title}}'>{{talk.title}}</a>
+                                        <p>
+                                            Speaker: {{talk.speaker}}
+                                        </p>
+                                    </li>
+                                </ul>
+                            {% endfor %}
+                            <br />
+                            <h4 class='speaker'>Sessions</h3>
+                            {% for talk in site.data.hillhacks_18_sessions %}
+                                <h3 id='{{talk.title}}' class='talk-title'>
                                     {{talk.title}}
                                 </h3>
                                 <h4 class='speaker'>
