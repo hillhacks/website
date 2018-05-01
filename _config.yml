@@ -30,3 +30,6 @@ schedule: https://osem.hillhacks.in/conferences/hillhacks2017/schedule
 markdown: kramdown
 kramdown:
   hard_wrap: false
+collections:
+  sessions:
+    output: false

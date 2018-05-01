@@ -1,7 +1,5 @@
 ---
 layout: default
-title: "hillhacks: confirmed sessions"
-permalink: /sessions/
 ---
 <div class="row">
     <div class="col-md-10 col-md-offset-1 font-size-md">
@@ -12,28 +10,32 @@ permalink: /sessions/
                         <div class="post-content">
                             <h2 class='page-header'>Confirmed sessions</h2>
                             <h4 class='speaker'>Index</h3>
-                            {% for talk in site.data.hillhacks_18_sessions %}
+                            {% for talk in site.sessions %}
+                            {% if talk.year == page.year %}
                                 <ul>
                                     <li>
-                                        <a href='#{{talk.title}}'>{{talk.title}}</a>
+                                        <a href='#{{talk.title | slugify:latin}}'>{{talk.title}}</a>
                                         <p>
                                             Speaker: {{talk.speaker}}
                                         </p>
                                     </li>
                                 </ul>
+                            {% endif %}
                             {% endfor %}
                             <br />
                             <h4 class='speaker'>Sessions</h3>
-                            {% for talk in site.data.hillhacks_18_sessions %}
-                                <h3 id='{{talk.title}}' class='talk-title'>
+                            {% for talk in site.sessions %}
+                            {% if talk.year == page.year %}
+                                <h3 id='{{talk.title | slugify:latin}}' class='talk-title'>
                                     {{talk.title}}
                                 </h3>
                                 <h4 class='speaker'>
                                     Speaker: {{talk.speaker}}
                                 </h4>
                                 <p>
-                                    {{talk.abstract}}
+                                    {{talk.content}}
                                 </p>
+                            {% endif %}
                             {% endfor %}
                         </div>
                     </div>
