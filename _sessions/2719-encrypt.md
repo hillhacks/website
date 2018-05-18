@@ -2,6 +2,8 @@
 title: Let's encrypt before someone could listen
 speaker: Diwanshi
 year: 2018
+date: 27 May 2018
+time: 7 PM - 8 PM IST
 ---
 ### Description
 - The session will teach attendees about the privacy principle Encryption: “Communication over a network, unless strongly encrypted, is never just between two parties”.

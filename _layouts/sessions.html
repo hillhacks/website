@@ -8,19 +8,27 @@ layout: default
                 <div class="col-md-12 no-padding mt20">
                     <div class="row">
                         <div class="post-content">
-                            <h2 class='page-header'>Confirmed sessions</h2>
-                            <h4 class='speaker'>Index</h3>
-                            {% for talk in site.sessions %}
-                            {% if talk.year == page.year %}
-                                <ul>
-                                    <li>
-                                        <a href='#{{talk.title | slugify:latin}}'>{{talk.title}}</a>
-                                        <p>
-                                            Speaker: {{talk.speaker}}
-                                        </p>
-                                    </li>
-                                </ul>
+                            <h2 class='page-header'>Schedule</h2>
+                            {% for date in site.dates %}
+                            <h3>{{date.date | date_to_long_string}}</h3>
+                            <table class="table table-striped">
+                                <tr>
+                                    <th>Time</th>
+                                    <th>Session title</th>
+                                    <th>Speaker</th>
+                                </tr>
+                            {% for session in site.sessions %}
+                            {% if session.date == date.date %}
+                                <tr>
+                                    <td>{{session.time}}</td>
+                                    <td>
+                                        <a href='#{{session.title | slugify:latin}}'>{{session.title}}</a>
+                                    </td>
+                                    <td>{{session.speaker}}</td>
+                                </tr>
                             {% endif %}
+                            {% endfor %}
+                            </table>
                             {% endfor %}
                             <br />
                             <h4 class='speaker'>Sessions</h3>

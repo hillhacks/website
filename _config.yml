@@ -33,3 +33,5 @@ kramdown:
 collections:
   sessions:
     output: false
+  dates:
+    output: false

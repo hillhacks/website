@@ -2,6 +2,8 @@
 title: Peer Learning - The Warm Body Effect
 speaker: Akshay Kanthi
 year: 2018
+date: 25 May 2018
+time: 5 PM - 5:30 PM IST
 ---
 In an era where information is literally at your fingertips:
 

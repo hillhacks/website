@@ -2,6 +2,8 @@
 speaker: Dhananjay Balan
 title: Beyond Little Green Locks
 year: 2018
+date: 27 May 2018
+time: 5 PM - 5:30 PM IST
 ---
 There is a general consensus to trust a web page when there is a little green lock present in the browser when we visit the page, There is a significant population still believes that this represents a shopping bag and hence a secure portal to do financial transactions.
 

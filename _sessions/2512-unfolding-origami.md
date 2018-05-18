@@ -2,6 +2,8 @@
 speaker: Anish TP
 year: 2018
 title: Unfolding Origami
+date: 25 May 2018
+time: 12 PM - 12:30 PM IST
 ---
 The practice of folding paper and cloth into abstract shapes and designs has existed for many centuries in Europe and Asia. However, in the 1960's this practice acquired a new language. 
 

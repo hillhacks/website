@@ -2,6 +2,8 @@
 speaker: Ayan Pahwa
 title: Remote Control - Aeromodelling
 year: 2018
+date: 27 May 2018
+time: 2 PM - 4 PM IST
 ---
 Build your own RC Airplane learning and applying all the concepts of Aerodynamics and control surfaces and glide it along or put up an electric motor and control system with Radio receiver to  for more fun.
 

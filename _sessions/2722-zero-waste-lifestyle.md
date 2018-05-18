@@ -2,6 +2,8 @@
 speaker: Stephanie
 title: Zero waste lifestyle
 year: 2018
+date: 27 May 2018
+time: 10 PM IST
 ---
 
 **'Mottainai'** is a Japanese word that literally translates to wasteful. In spirit, it is the philosophy of extending the lifetime of the goods or devices we own by creating multiple uses for them. 

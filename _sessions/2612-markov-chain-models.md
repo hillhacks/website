@@ -2,6 +2,8 @@
 speaker: Matt Ziegler
 title: Markov Chain Models for NLP
 year: 2018
+date: 26 May 2018
+time: 12 PM - 12:30 PM IST
 ---
 Markov Chains Models are the foundation of many Natural Language Processing algorithms. They ask 'given the previous X number of items in a sequence, what is likely to come next?' You can see Markov Models in action by playing with the word-suggestions when you're typing on your phone.
 
