@@ -2,6 +2,8 @@
 title: Unquiz
 speaker: Harman Singh
 year: 2018
+date: 26 May 2018
+time: 6 PM - 7 PM IST
 ---
 _tl;dr_ A lightning quick talk on what comprises a good quiz question and some tips on how to make one, followed by an activity in which teams are tasked with framing questions that meet a previously agreed-upon definition of 'good'.
 

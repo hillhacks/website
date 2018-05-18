@@ -2,6 +2,8 @@
 speaker: Matt Ziegler
 title: Market information systems for vegetable farmers in rural Bihar
 year: 2018
+date: 27 May 2018
+time: 12 PM - 12:30 PM IST
 ---
 The wide adoption of mobile phones over the past 3-4 years has changed the landscape of vegetable markets in rural Bihar.  Farmers can call to check prices at different markets before deciding where to bring their vegetables; more long-distance traders shuttle vegetables between markets, stabilizing the prices; and an increasing number of farm-gate traders bypass the markets all together, arranging deals over the phone to pick up vegetables directly from the villages.  Many of the farmers we interviewed reported getting better prices in recent years, with fewer price crashes.
 

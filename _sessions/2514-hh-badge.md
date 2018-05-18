@@ -2,6 +2,8 @@
 speaker: Nitesh Kadyan
 title: Hillhacks Badge Distribution and basic KiCad workshop for circuit designing
 year: 2018
+date: 25 May 2018
+time: 2 PM - 4 PM IST
 ---
 The goal of this workshop will be to walk you through KiCad basics so that you are able to get started. This will involve designing a simple design from sketch to gerber. We will cover following topics:
 

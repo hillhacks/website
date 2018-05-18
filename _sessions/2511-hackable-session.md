@@ -2,6 +2,8 @@
 speaker: Nikaytaa
 title: Hackable Fashion - The roots of the Sari
 year: 2018
+date: 25 May 2018
+time: 11 AM - 11:30 AM IST
 ---
 The Sari, at its basic, is an unstitched fabric that can be draped into any garment of choice using just knots and pleats. It can become a pair of pants like the dancers of Odisha or a pair of shorts like the Goan fisherwomen. Or one could take inspiration from the farmlands of West Bengal and wear the Sari as a short gown or one could imitate the agricultural women of Andhra Pradesh who wear their Sari as functional, aesthetic dresses. Rta Kapur Chishti, a renowned Sari historian and a textile scholar, has documented a 108 ways to wear a Sari in her book “Saris of India” that was put together after a decade of travelling across thirteen states in India.
 
