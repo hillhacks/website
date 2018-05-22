@@ -3,7 +3,7 @@ title: Wearable Electronics - Fashion 2.0
 speaker: Ayan Pahwa
 year: 2018
 date: 26 May 2018
-time: 10 PM IST
+time: 7:30 PM - 8 PM IST
 ---
 Wear your code and lighten up your dresses.
 
