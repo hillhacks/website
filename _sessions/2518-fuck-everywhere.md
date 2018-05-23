@@ -1,6 +1,6 @@
 ---
 title: F.U.C.K everywhere
-speaker: Miriaamino
+speaker: miriamino
 year: 2018
 date: 25 May 2018
 time: 6 PM - 6:30 PM IST
