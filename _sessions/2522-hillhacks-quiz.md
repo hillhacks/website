@@ -1,6 +1,6 @@
 ---
 title: hillhacks quiz
-speaker: 	Nemo, Harman Singh
+speaker: Nemo
 year: 2018
 date: 25 May 2018
 time: 10 PM IST
