@@ -3,7 +3,7 @@ speaker: Natasha Singh
 title: Sound and Structure
 year: 2018
 date: 26 May 2018
-time: 11 AM - 11:30 AM IST
+time: 11:45 PM - 12:15 PM IST
 ---
 Hi, I am a Digital Artist and would like to present to the audience of Hillhacks one of our tools called as Sound and Structure. Its an interactive web tool where anyone can make music by drawing simple to complex shapes. The Generative music that you'll hear will be a result of some simple rules to map parameters of the shapes (like angle, x axis or y axis) to the parameters of music (like note, note duration, velocity). Sound and Structure has an element of surprise, and unexpectedness as a small change in the shape generates a new astounding sound. With these simple rules and edits to the shape, we can generate a lot of interesting soundscapes and we will explore more of that in the one hour workshop with you all.
 
