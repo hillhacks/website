@@ -2,8 +2,8 @@
 title: hillhacks quiz
 speaker: Nemo
 year: 2018
-date: 25 May 2018
-time: 10 PM IST
+date: 26 May 2018
+time: 10:30 PM IST
 ---
 The annual hillhacks quiz, hosted by your friendly QM Nemo. The format of the quiz will depend on the number of registrations, but will likely involve the following:
 
