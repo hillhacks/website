@@ -4,9 +4,12 @@ title: Call for participation
 permalink: /participate/
 ---
 
-### Latest updates
+### Dates
 
-See <a href="{{site.baseurl}}/sessions/">confirmed sessions</a>. CFP is still open.
+1. Setup & Unconference 0: 11 May – 17 May, 2019
+2. Unconference 1: 18 May – 23 May, 2019
+3. Main programme: 24 May – 26 May, 2019
+4. Unconference 2 & Teardown: 27 May – 31 May, 2019
 
 ### Context
 
@@ -37,11 +40,6 @@ If you're new to hillhacks, you might find the following links useful to get a t
 2. [2015](https://attic.hillhacks.in/2015/summary)
 3. [2016](https://attic.hillhacks.in/2016/summary)
 4. [2017](https://osem.hillhacks.in/conferences/hillhacks2017/schedule/events)
-
-### Dates
-
-1. Main programme: 25th May - 27th May 2018
-2. Unconference: 18th May - 24th May & 28th May - 31st May 2018
 
 ### Format
 
