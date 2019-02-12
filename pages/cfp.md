@@ -20,7 +20,7 @@ hillhacks is an annual, community-run event that provides a space for exploring 
 - finding a clever way of solving a problem, as opposed to brute force or an expensive way;
 - sharing what we learn and make with fellow participants
 
-We are seeking proposals for talks, workshops and discussion sessions for the main programme at hillhacks. We are especially interested in sessions that explore intesections between technology, art and society.
+We are seeking proposals for talks, workshops and discussion sessions for the main programme at hillhacks. We are especially interested in sessions that explore intersections between technology, art and society.
 
 Some ideas for topics:
 
