@@ -56,3 +56,12 @@ Date
 
 Location
 : Bir
+
+### hillhacks 4
+
+{: .dl-horizontal }
+Date
+: 18-31 May 2018
+
+Location
+: Bir
