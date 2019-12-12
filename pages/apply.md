@@ -1,6 +1,6 @@
 ---
 layout: page
-title: apply
+title: overview
 permalink: /apply/
 ---
 
@@ -10,7 +10,18 @@ All participants are expected to attend the full workshop. If you are not able t
 
 **Participants are limited to 10-15 persons.**
 
-{% include btn-apply.html %}
+### Eligibility
+
+Familiarity with the following subjects is expected.
+
+* Linear algebra
+* Calculus
+* Graphical skills (i.e. log, exponential functions)
+* Differential equations
+
+We recommend reading the following prior to attending the workshop:
+* Strogatz, Steven H. Nonlinear dynamics and chaos: with applications to physics, biology, chemistry, and engineering. CRC Press, 2018.
+* Eroglu, Deniz, Jeroen SW Lamb, and Tiago Pereira. "Synchronisation of chaos and its applications." Contemporary Physics 58.3 (2017): 207-243.
 
 ### Schedule
 
@@ -52,3 +63,5 @@ All participants are expected to attend the full workshop. If you are not able t
 | 14:30 | Group exercises |
 | 16:30 | Coffee break |
 | 17:00 | Discussion of exercises |
+
+{% include btn-apply.html %}
