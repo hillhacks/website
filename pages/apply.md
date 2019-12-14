@@ -4,7 +4,7 @@ title: Overview
 permalink: /apply/
 ---
 
-All participants are expected to attend the full workshop. If you are not able to commit full attendance, we can kindly request that you do not apply. Complex Systems Winter School 2020 is being organized as a highly spirit meeting of minds with ample opportunities of engagements.
+All participants are expected to attend the full workshop. If you are not able to commit to full attendance, we kindly request that you do not apply. Complex Systems Winter School 2020 is being organized as a high spirited meeting of minds with ample opportunities of engagement.
 
 **The application process is selective.**
 
@@ -12,15 +12,15 @@ All participants are expected to attend the full workshop. If you are not able t
 
 ### Eligibility
 
-Familiarity with the following subjects is expected.
+Familiarity with the following subjects is expected:
 
 * Linear algebra
 * Calculus
-* Graphical skills (i.e. log, exponential functions)
 * Differential equations
+* Graphical skills (i.e. logarithmic, exponential functions)
 
 We recommend reading the following prior to attending the workshop:
-* Strogatz, Steven H. Nonlinear dynamics and chaos: with applications to physics, biology, chemistry, and engineering. CRC Press, 2018.
+* Strogatz, Steven H. Nonlinear Dynamics and Chaos: with Applications to Physics, Biology, Chemistry, and Engineering. CRC Press, 2018.
 * Eroglu, Deniz, Jeroen SW Lamb, and Tiago Pereira. "Synchronisation of chaos and its applications." Contemporary Physics 58.3 (2017): 207-243.
 
 ### Schedule
