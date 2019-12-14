@@ -1,9 +1,7 @@
 <footer class="site-footer footer">
-
   <div class="wrapper">
-
     <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
+      <div class="footer-col footer-col-6" style="border-width: 5px">
         <ul class="contact-list">
           <li>
             {{ site.title | escape }}
@@ -14,31 +12,39 @@
         </ul>
       </div>
 
-      <div class="footer-col footer-col-2">
+      <div class="footer-col footer-col-6">
         <ul class="social-media-list">
           <li>
-            {% include icon-github.html label="source" %}
+            {% include icon-github-source.html label="source" %}
           </li>
+          <li>
+            {% include icon-github-hillhacks.html label="cloned from hillhacks" %}
+          </li>
+          <!--
           <li>
             {% include icon-twitter.html username=site.twitter_username %}
           </li>
+          -->
         </ul>
       </div>
-
+    
+    <!--
       <div class="footer-col footer-col-3">
-        <ul class='footer-links'>
+        <ul class='footer-links'> 
           <li><a href="/about/">About</a></li>
           <li><a href="/contact/">Contact</a></li>
           <li><a href="/faq/">FAQ</a></li>
-          <!-- <li><a href="/participate/">Participate</a></li> -->
+          <li><a href="/participate/">Participate</a></li>
           <li><a href="/pads/">Pads</a></li>
         </ul>
       </div>
 
+    -->
+    <!--
       <div class="footer-col footer-col-4">
         Website designed by <a href="https://stephaniebr.github.io/">Stephanie</a>
       </div>
-
+    -->
     </div>
 
   </div>
