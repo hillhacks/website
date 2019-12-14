@@ -1,6 +1,6 @@
 ---
 layout: page
-title: overview
+title: Overview
 permalink: /apply/
 ---
 
