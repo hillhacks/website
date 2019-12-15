@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Overview
-permalink: /apply/
+permalink: /overview/
 ---
 
 All participants are expected to attend the full workshop. If you are not able to commit to full attendance, we kindly request that you do not apply. Complex Systems Winter School 2020 is being organized as a high spirited meeting of minds with ample opportunities of engagement.
@@ -63,5 +63,7 @@ We recommend reading the following prior to attending the workshop:
 | 14:30 | Group exercises |
 | 16:30 | Coffee break |
 | 17:00 | Discussion of exercises |
+
+The event will take place at **[Kadir Has Campus](https://khas.edu.tr/en/about-us-university/contact-us)**.
 
 {% include btn-apply.html %}
