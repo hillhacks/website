@@ -30,8 +30,8 @@ We recommend reading the following prior to attending the workshop:
 #### 21 February
 
 {: .table}
-| Time  | Description      |
-|-------|------------------|
+| Time  | Description  |
+|-------|--------------|
 | 09:30 | Introduction to Dynamical Systems |
 | 10:45 | Coffee break |
 | 11:15 | Synchronization of Linear Systems |
@@ -43,8 +43,8 @@ We recommend reading the following prior to attending the workshop:
 #### 22 February
 
 {: .table}
-| Time  | Description      |
-|-------|------------------|
+| Time  | Description  |
+|-------|--------------|
 | 09:30 | Chaos Theory |
 | 10:45 | Coffee break |
 | 11:15 | Synchronization of Chaos |
@@ -56,8 +56,8 @@ We recommend reading the following prior to attending the workshop:
 #### 23 February
 
 {: .table}
-| Time  | Description      |
-|-------|------------------|
+| Time  | Description  |
+|-------|--------------|
 | 09:30 | Network Theory |
 | 10:45 | Coffee break |
 | 11:15 | Synchronization in Complex Networks |

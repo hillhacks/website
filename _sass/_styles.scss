@@ -270,10 +270,16 @@ body{
         letter-spacing: 1.65px;
     }
     table{
-       font-family: $base-font-family;
+        font-family: $base-font-family;
         color: #4E4E4E;
         letter-spacing: 1.65px;
         margin-top: 20px;
+        min-width: 40%;
+        max-width: 600px;
+
+        th:first-of-type {
+            width: 100px;
+        }
     }
 }
 
