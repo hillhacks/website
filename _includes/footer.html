@@ -1,54 +1,11 @@
 <footer class="site-footer footer">
   <div class="wrapper">
     <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li>
-            {{ site.title | escape }}
-          </li>
-          {% if site.email %}
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-          {% endif %}
-        </ul>
+      <div class="footer-col text-center">
+        <p style="text-align: center;">cloned from <a href="https://github.com/hillhacks"><img src="assets/images/hillhacks.png">hillhacks</a></p>
       </div>
-      <div class="footer-col footer-col-1">
-        <ul class="social-media-list">
-          <li>
-            {% include icon-github-source.html label="source" %}
-          </li>
-          <li>
-            {% include icon-github-hillhacks.html label="cloned from hillhacks" %}
-          </li>
-          <!--
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          -->
-        </ul>
-      </div>
-      <div class="footer-col footer-col-1">Address: Kadir Has University, Cibaali Mah. Kadir Has Cad. Fatih / İSTANBUL 34083</div>
-    
-    <!--
-      <div class="footer-col footer-col-3">
-        <ul class='footer-links'> 
-          <li><a href="/about/">About</a></li>
-          <li><a href="/contact/">Contact</a></li>
-          <li><a href="/faq/">FAQ</a></li>
-          <li><a href="/participate/">Participate</a></li>
-          <li><a href="/pads/">Pads</a></li>
-        </ul>
-      </div>
-
-    -->
-    <!--
-      <div class="footer-col footer-col-4">
-        Website designed by <a href="https://stephaniebr.github.io/">Stephanie</a>
-      </div>
-    -->
     </div>
-
   </div>
-
 </footer>
 <script type="text/javascript" src="{{"/js/bootstrap-native.min.js" | prepend: site.baseurl}}"></script>
 <script type="text/javascript" src="{{"/js/lightbox.min.js" | prepend: site.baseurl}}"></script>

@@ -1,49 +1,27 @@
 ---
 layout: page
-title: What we do
+title: About
 permalink: /about/
 ---
 
-hillhacks is held in the lap of the stunning Dhauladhar Himalayas every summer.
+The complex system research community in Turkey is comprised of undergraduate and graduate students and people from academia and industry.
 
-People from different places, walks of life and lines of thought come together
-to share, collaborate and learn.
+Affiliated groups:
 
-Hackers talk code.  Artists share their creativity.  Students join in from
-schools and colleges to learn new skills.  Locals and globals mix and mingle.
-We build things like tables, hula hoops, interactive art installations, and
-solar lanterns.  We connect.  We dance and sing.  Ideas emerge.  Collaborations
-form.  Lives change.
+* [KaVe](https://uzay00.github.io/kahve/)
+* [NoddsLab](https://nodds.khas.edu.tr)
+* [SoSLab](http://soslab.cmpe.boun.edu.tr)
 
-In the hacking, we get hacked ourselves.
 
-### Philosophy
+### Organizers
 
-hillhacks is passionate about making, sharing, learning, and the broad concepts
-of open source. Freedom, security, and environmentalism are also key to
-hillhackers. All of our ideas have conjoined into something exceptionally
-creative.
+* [Haluk Bingöl](https://www.cmpe.boun.edu.tr/tr/~bingol), Boğaziçi University
+* [Uzay Çetin](https://www.bilgi.edu.tr/tr/akademik/kadro/uzay-cetin/), Bilgi University
+* [Deniz Eroğlu](http://sites.khas.edu.tr/biyoinformatik/arastirma/deniz-eroglu/), Kadir Has University
+* [Emre Kaya](https://www.linkedin.com/in/emre-kaya-04b200ab), Kadir Has University
+* [İrem Topal](https://www.linkedin.com/in/irem-topal-kement-4b1896102), Kadir Has University
+* [Suzan Üsküdarlı](https://www.cmpe.boun.edu.tr/~uskudarli/), Boğaziçi University
+* [Galip Ümit Yolcu](https://github.com/gumityolcu), Boğaziçi University
+* [Oğuz Kaan Yüksel](https://github.com/okyksl), Boğaziçi University
 
-We are just a bunch of people that got connected by crazy and various
-circumstances, in a spontaneous and still very dynamic way. Many hillhackers
-change direction in life thanks to interactions during hillhacks - starting
-school, quitting jobs, moving house, launching projects.
-
-hillhacks is inclusive. Being Excellent to Each Other is a core component of
-hillhacks. Everyone is welcome, regardless of economic background, race,
-religion, caste, nationality, political view, gender, and age.
-
-#### The four pillars of hillhacks
-
-{: .dl-horizontal}
-Education
-: Teaching expands horizons of students and the general public.
-
-Exchange
-: Sharing expert-to-expert broadens our connections and ideas.
-
-Making
-: Gaining independence and freedom on so many levels.
-
-Caring
-: Shaping and developing our world, society, ethics and politics.
+### Code of Conduct
