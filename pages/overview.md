@@ -8,9 +8,9 @@ Real-world complex systems such as ecosystems and neuron networks appear in most
 
 ### Instructor
 
-Deniz Eroğlu is an Assistant Professor at Kadir Has University. After graduating in physics (BA & MS) from Ege University in 2013, Eroğlu studied at Potsdam Institute for Climate Impact Research as a research associate in a project supported by Leibniz Association. He did his doctoral work in theoretical physics at Humboldt University Berlin and defended his thesis in January 2016 with summa cum laude. Following  postdoctoral fellowships at Imperial College and Northwestern University he joined Kadir Has University in February  2019.
+Deniz Eroğlu is an Assistant Professor at Kadir Has University. After graduating from physics (BA & MS) from Ege University in 2013, Eroğlu studied at Potsdam Institute for Climate Impact Research as a research associate in a project supported by the Leibniz Association. He did his doctoral work in theoretical physics at Humboldt University, Berlin, and defended his thesis summa cum laude in January 2016. Following postdoctoral fellowships at Imperial College and Northwestern University he joined Kadir Has University in February 2019.
 
-Deniz Eroğlu's research interest is broad and multidisciplinary, encompassing nonlinear dynamics, network theory, complex systems and game theory. He started his career focusing on nonlinear dynamics and chaos applied to network science. These projects dealt with the collective behavior of coupled chaotic systems. In PhD time, he worked on time series analysis in climate systems to reveal hidden connections between monsoon regions.  Identification of the long-term anti-correlation between monsoon activities in Northern and Southern parts of the globe brought him the best PhD thesis prize in Potsdam Institute for Climate Impact Research. Currently, he is involved in four major grants and working on several applications of interacting systems, including neural, climate and energy networks. His expertise lies at the intersection of dynamical systems and data analysis.
+Deniz Eroğlu's research interests are broad and multidisciplinary, encompassing nonlinear dynamics, network theory, complex systems and game theory. He started his career focusing on nonlinear dynamics and chaos applied to network science. These projects dealt with the collective behavior of coupled chaotic systems. During his PhD, he worked on time series analysis in climate systems to reveal hidden connections between monsoon regions. Identification of the long-term anti-correlation between monsoon activities in Northern and Southern parts of the globe brought him the best PhD thesis prize in Potsdam Institute for Climate Impact Research. Currently, he is involved in four major grants and working on several applications of interacting systems, including neural, climate and energy networks. His expertise lies at the intersection of dynamical systems and data analysis.
 
 ### Eligibility
 
@@ -19,7 +19,7 @@ Familiarity with the following subjects is expected:
 * Linear algebra
 * Calculus
 * Differential equations
-* Graphical skills (i.e. logarithmic, exponential functions)
+* Graphical skills (i.e. trigonometric, logarithmic, exponential functions)
 
 We recommend reading the following prior to attending the workshop:
 * Strogatz, Steven H. Nonlinear Dynamics and Chaos: with Applications to Physics, Biology, Chemistry, and Engineering. CRC Press, 2018.
