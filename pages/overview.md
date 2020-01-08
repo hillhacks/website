@@ -29,7 +29,7 @@ We recommend reading the following prior to attending the workshop:
 
 ### Schedule
 
-#### 21 February
+#### Friday, March 6
 
 {: .table}
 | Time  | Description  |
@@ -42,7 +42,7 @@ We recommend reading the following prior to attending the workshop:
 | 16:30 | Coffee break |
 | 17:00 | Discussion of exercises |
 
-#### 22 February
+#### Saturday, March 7
 
 {: .table}
 | Time  | Description  |
@@ -55,7 +55,7 @@ We recommend reading the following prior to attending the workshop:
 | 16:30 | Coffee break |
 | 17:00 | Discussion of exercises |
 
-#### 23 February
+#### Sunday, March 8
 
 {: .table}
 | Time  | Description  |
