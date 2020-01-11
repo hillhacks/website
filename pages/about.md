@@ -4,24 +4,6 @@ title: About
 permalink: /about/
 ---
 
-The complex system research community in Turkey is comprised of undergraduate and graduate students and people from academia and industry.
+Real-world complex systems such as ecosystems and neuron networks appear in most aspects of our everyday life. These complex systems are often made up of components, called nodes, which interact through an intricate network. By observing past behavior of such complex systems, it may be possible to predict behavior for some time in the future. However, it is much more difficult to predict new behavior of such complex systems when the parameters change to a new range. In this workshop we will examine this challenge by building an effective network, that is, a faithful model of the network consisting of the underlying local dynamics at each node and an accurate statistical description of the interactions.
 
-Affiliated groups:
-
-* [KaVe](https://uzay00.github.io/kahve/)
-* [NoddsLab](https://nodds.khas.edu.tr)
-* [SoSLab](http://soslab.cmpe.boun.edu.tr)
-
-
-### Organizers
-
-* [Haluk Bingöl](https://www.cmpe.boun.edu.tr/tr/~bingol), Boğaziçi University
-* [Uzay Çetin](https://www.bilgi.edu.tr/tr/akademik/kadro/uzay-cetin/), Bilgi University
-* [Deniz Eroğlu](http://sites.khas.edu.tr/biyoinformatik/arastirma/deniz-eroglu/), Kadir Has University
-* [Emre Kaya](https://www.linkedin.com/in/emre-kaya-04b200ab), Kadir Has University
-* [İrem Topal](https://www.linkedin.com/in/irem-topal-kement-4b1896102), Kadir Has University
-* [Suzan Üsküdarlı](https://www.cmpe.boun.edu.tr/~uskudarli/), Boğaziçi University
-* [Galip Ümit Yolcu](https://github.com/gumityolcu), Boğaziçi University
-* [Oğuz Kaan Yüksel](https://github.com/okyksl), Boğaziçi University
-
-### Code of Conduct
+An effective network makes it possible to predict sudden changes in behavior – also known as critical transitions – that can lead to major disruptions in the complex system. The construct of an effective network only requires observations of the states of a representative sample of nodes for a relatively short time window. The power of this approach will be illustrated by learning how to reconstruct the dynamics and structure of real networks, such as neuronal interactions in the cat cerebral cortex. Such networks are able to predict critical transitions for parameters outside the observed range.
