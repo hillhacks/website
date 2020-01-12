@@ -14,7 +14,7 @@ Familiarity with the following subjects is expected:
 * Graphical skills (i.e. trigonometric, logarithmic, exponential functions)
 
 We recommend reading the following prior to attending the workshop:
-* Strogatz, Steven H. Nonlinear Dynamics and Chaos: with Applications to Physics, Biology, Chemistry, and Engineering. CRC Press, 2018.
+* Strogatz, Steven H. Nonlinear Dynamics and Chaos: with Applications to Physics, Biology, Chemistry, and Engineering. CRC Press, 2018, Chapter 9: Lorentz Equations.
 * Eroglu, Deniz, Jeroen SW Lamb, and Tiago Pereira. "[Synchronisation of chaos and its applications](http://conteudo.icmc.usp.br/pessoas/tiago/index.html/assets/synchronisation-of-chaos-and-its-applications.pdf)" Contemporary Physics 58.3 (2017): 207-243.
 
 ### Important Notes
