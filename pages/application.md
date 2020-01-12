@@ -25,6 +25,6 @@ All participants are expected to attend the full workshop. If you are not able t
 
 **Participants are limited to 10-15 people.**
 
-<!--The event will take place at **[Kadir Has Campus](https://khas.edu.tr/en/about-us-university/contact-us)**.-->
+**Winter school is free.**
 
 {% include btn-apply.html %}
