@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Programme
-permalink: /programme/
+title: Program
+permalink: /program/
 ---
 
 All lectures and exercise session will be held at [Kadir Has University]({{site.baseurl}}/venue/).
