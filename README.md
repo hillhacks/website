@@ -1,6 +1,6 @@
 # hillhacks website - https://hillhacks.in/
 
-Source code for the hillhacks website.
+Source code for an amaizing hillhacks website.
 
 ## Compiling
 
