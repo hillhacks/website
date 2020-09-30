@@ -1,6 +1,8 @@
-# hillhacks website - https://hillhacks.in/
+# Hillhacks website - Hacking and Making In Himalaya
 
-Source code for the hillhacks website.
+Website Address :- https://hillhacks.in/
+
+Source code for the Hillhacks website.
 
 ## Compiling
 
