@@ -4,14 +4,20 @@ Source code for the hillhacks website.
 
 ## Compiling
 
-You need to have [Jekyll](http://jekyllrb.com/) installed.  Follow its
-installation instructions for your platform.
+You have to have [Jekyll](http://jekyllrb.com/) introduced. Follow its 
 
-Compile the site with ``jekyll b``. You can have a server running 
-using `jekyll serve [--watch] [[--incremental]` with the optional
-`--watch` flag to automatically regenerate the site on file saves
-and the `--incremental` flag to only generate what is needed.
+establishment directions for your foundation. 
 
-The site uses [kramdown](https://kramdown.gettalong.org/syntax.html)
-and [Jekyll](https://jekyllrb.com/docs/templates/) for syntax
-and templating.
+Aggregate the site with ''jekyll b''. You can have a worker running 
+
+utilizing 'jekyll serve [- - watch] [[- - incremental]' with the discretionary 
+
+'- - watch' banner to naturally recover the site on record spares 
+
+what's more, the '- - steady' banner to just create what is required. 
+
+The site utilizes [kramdown](https://kramdown.gettalong.org/syntax.html) 
+
+what's more, [Jekyll](https://jekyllrb.com/docs/formats/) for language structure 
+
+what's more, templating.
