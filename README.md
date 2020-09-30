@@ -5,7 +5,7 @@ Source code for the hillhacks website.
 ## Compiling
 
 You need to have [Jekyll](http://jekyllrb.com/) installed.  Follow its
-installation instructions for your platform.
+installation instructions for your respective platforms.
 
 Compile the site with ``jekyll b``. You can have a server running 
 using `jekyll serve [--watch] [[--incremental]` with the optional
