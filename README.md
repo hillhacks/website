@@ -15,3 +15,5 @@ and the `--incremental` flag to only generate what is needed.
 The site uses [kramdown](https://kramdown.gettalong.org/syntax.html)
 and [Jekyll](https://jekyllrb.com/docs/templates/) for syntax
 and templating.
+
+Thank you.
