@@ -1,5 +1,5 @@
 # hillhacks website - https://hillhacks.in/
-
+Hacking and making in the Himalayas
 Source code for the hillhacks website.
 
 ## Compiling
