@@ -1,8 +1,8 @@
-# hillhacks website - https://hillhacks.in/
+# hillhacks website - https://hillhacks.in/ An Amazing Project
 
 Source code for the hillhacks website.
 
-## Compiling
+## Compiling :
 
 You need to have [Jekyll](http://jekyllrb.com/) installed.  Follow its
 installation instructions for your platform.
