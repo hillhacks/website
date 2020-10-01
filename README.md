@@ -1,7 +1,7 @@
 # hillhacks website - https://hillhacks.in/
 
 Source code for the hillhacks website.
-
+Hillhacks makes your mountaineous journey smooth.
 ## Compiling
 
 You need to have [Jekyll](http://jekyllrb.com/) installed.  Follow its
