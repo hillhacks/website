@@ -7,6 +7,9 @@ Source code for the hillhacks website.
 You need to have [Jekyll](http://jekyllrb.com/) installed.  Follow its
 installation instructions for your platform.
 
+## Jekyll Instruction Manual
+ * https://jekyllrb.com/docs/installation/windows/
+
 Compile the site with ``jekyll b``. You can have a server running 
 using `jekyll serve [--watch] [[--incremental]` with the optional
 `--watch` flag to automatically regenerate the site on file saves
