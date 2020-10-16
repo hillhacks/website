@@ -1,6 +1,6 @@
 # hillhacks website - https://hillhacks.in/
 
-Source code for the hillhacks website.
+Source code for the hillhacks website. This website is very interesting and cool for summer vacations.
 
 ## Compiling
 
@@ -15,3 +15,4 @@ and the `--incremental` flag to only generate what is needed.
 The site uses [kramdown](https://kramdown.gettalong.org/syntax.html)
 and [Jekyll](https://jekyllrb.com/docs/templates/) for syntax
 and templating.
+
