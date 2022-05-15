@@ -65,3 +65,21 @@ Date
 
 Location
 : Bir
+
+### hillhacks 5
+
+{: .dl-horizontal }
+Date
+: ??
+
+Location
+: Bir
+
+### hillhacks 6
+
+{: .dl-horizontal }
+Date
+: 26 May - 10 June 2022
+
+Location
+: Thachi Valley
