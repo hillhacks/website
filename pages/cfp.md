@@ -6,10 +6,13 @@ permalink: /participate/
 
 ### Dates
 
-1. Setup & Unconference 0: 11 May – 17 May, 2019
-2. Unconference 1: 18 May – 23 May, 2019
-3. Main programme: 24 May – 26 May, 2019
-4. Unconference 2 & Teardown: 27 May – 31 May, 2019
+26th May to 16th June
+
+1. Setup and Unconference 1: 26th May - 2nd June
+2. Conference: 3rd to 10th June
+3. Unconference 2 & Teardown: 10th to 16th June
+
+
 
 ### Context
 
@@ -47,20 +50,20 @@ If you're new to hillhacks, you might find the following links useful to get a t
 - Workshops are recommended to be timed at 3 hours. Please do make sure that the workshops are highly interactive or hands-on. You can conduct the workshop over the course of multiple days too, depending upon the level of interest. If you need special equipment, please do mention it. We'll look into how we can help.
 - Discussion sessions are expected to last for about an hour. These sessions will be moderated.
 
-If you are curious to see or participate in a session on a particular topic, please go ahead and propose the topic. We'll do our best to find a qualified speaker to take it up! 
+If you are curious to see or participate in a session on a particular topic, please go ahead and propose the topic. We'll do our best to find a qualified speaker to take it up!
 
 ### Facilities
 
 There will be one main 'stage' which will feature a projector. There will also be other spaces, including open green spaces, rooms, terraces that will be open and available for both scheduled and impromptu sessions.
 
 ### Deadline
-Please do make sure to send in your submissions by the 18th May, so we can have sufficient time to go through it, give feedback and schedule it. Sooner the better!
+Please do make sure to send in your submissions by the 2nd June, so we can have sufficient time to go through it, give feedback and schedule it. Sooner the better!
 
 ### Grants
 Please do mention if you're looking for travel assistance. We'll do our best to help with this.
 
 ### Propose
 
-Convinced? [Register](https://osem.hillhacks.in/) and send in your submissions!
+Convinced? [Register](https://ee.kobotoolbox.org/x/BUMbMagG) and send in your submissions!
 
 Also, please [subscribe to the mailing list]({% link pages/mailinglist.md %}) for the latest updates.
