@@ -267,4 +267,20 @@ $darkblue: #3F658B;
   &:hover {
     box-shadow: 0px 0px 14px 0px #000;
   }
+
+
+}
+
+.inner-img-class
+{
+  object-fit:cover;
+  height:100%;
+  width:100%;
+}
+.outer-img-class
+{
+  height:250px;
+  width:250px;
+  max-height:250px;
+  max-width:250px;
 }
