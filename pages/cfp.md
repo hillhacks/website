@@ -12,6 +12,8 @@ permalink: /participate/
 2. Conference: 3rd to 10th June
 3. Unconference 2 & Teardown: 10th to 16th June
 
+[Submit your Hack/Talk/Proposal/Event](https://ee.kobotoolbox.org/x/Ub6gdXt6)
+
 
 
 ### Context
