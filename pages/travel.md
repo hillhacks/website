@@ -4,7 +4,9 @@ title: Getting to hillhacks
 permalink: /travel/
 ---
 
-Travel to Thachi Valley can involve planes, trains, buses, and/or taxi. **Once you have reached Thachi, see the venue details at [the venue page][venue] for more instructions.**
+Travel to Thachi Valley can involve planes, trains, buses, and/or taxi. 
+
+**Once you have reached Thachi, see the venue details at [the venue page][venue] for more instructions.**
 
 ### By plane
 
