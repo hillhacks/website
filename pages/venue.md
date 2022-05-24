@@ -20,8 +20,8 @@ Address
   Pin 175106
 
 ^
-GPS coordinates
-: 31.6604268,77.217251
+[GPS coordinates](geo:31.6604268,77.217251;z=19)
+: `31.6604268,77.217251`
 
 
 
@@ -30,14 +30,8 @@ GPS coordinates
 <div class="row homepage-gallery">
   <div class="col-md-12 no-padding mt20">
      <div class="row">
-      {% for num in (9..14) %}
+      {% for num in (1..14) %}
       {% capture image_href %}{{site.baseurl}}/assets/images/2022-venue/img-venue-{{num}}.jpg{% endcapture %}
-      {% include lightbox-image.html href=image_href %}
-      {% endfor %}
-    </div>
-    <div class="row">
-      {% for num in (1..8) %}
-      {% capture image_href %}{{site.baseurl}}/assets/images/2022-venue/img-venue-{{num}}.png{% endcapture %}
       {% include lightbox-image.html href=image_href %}
       {% endfor %}
     </div>
