@@ -79,7 +79,7 @@ Location
 
 {: .dl-horizontal }
 Date
-: 26 May - 10 June 2022
+: 26 May - 16 June 2022
 
 Location
 : Thachi Valley
