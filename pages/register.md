@@ -6,12 +6,9 @@ permalink: /register/
 
 **Registration is free and helps us plan the event.**
 
-Click the button below to register in OSEM and let us know that you are coming.
+Click the button below to register, and let us know that you are coming.
 
 {% include btn-register.html %}
-
-When you have registered, you will be able to submit proposals for
-presentations and workshops sessions.
 
 ### Event costs
 
