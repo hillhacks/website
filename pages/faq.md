@@ -46,13 +46,13 @@ the mailing list.
 
 When can I come?
 : The unconference and set-up for the main conference all
-  begin on 18<sup>th</sup> May 2018.  We have the venue until 31<sup>st</sup>
-  May 2018.  If you would like to come earlier or stay later, you should make
+  begin on 26<sup>th</sup> May 2022.  We have the venue until 16<sup>th</sup>
+  June 2022.  If you would like to come earlier or stay later, you should make
   your own arrangements.  Contact the [mailing list][ml] for pointers.
 ^
 
 When is the main conference?
-: 24-27 May 2018.
+: 3rd June - 10th June 2022.
 ^
 
 How do I get there?
