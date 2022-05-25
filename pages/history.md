@@ -22,7 +22,7 @@ more information in the (archived) [timeline][4].
 
 {: .dl-horizontal }
 Date
-: 11-28 October 2014
+: 11th October - 28th October 2014
 
 Location
 : Ghoomakad and Country Lodge
@@ -32,7 +32,7 @@ Location
 
 {: .dl-horizontal }
 Date
-: 18-31 May 2015
+: 18th May - 31st May 2015
 
 Location
 : Shiv Shakti
@@ -42,7 +42,7 @@ Location
 
 {: .dl-horizontal }
 Date
-: 23 May - 10 June 2016
+: 23rd May - 10th June 2016
 
 Location
 : Ghoomakad
@@ -52,7 +52,7 @@ Location
 
 {: .dl-horizontal }
 Date
-: 15-31 May 2017
+: 15th - 31st May 2017
 
 Location
 : Bir
@@ -61,7 +61,7 @@ Location
 
 {: .dl-horizontal }
 Date
-: 18-31 May 2018
+: 18th May - 31st May 2018
 
 Location
 : Bir
@@ -70,7 +70,7 @@ Location
 
 {: .dl-horizontal }
 Date
-: 15 May - 31st May 2019
+: 15th May - 31st May 2019
 
 Location
 : Bir
@@ -79,7 +79,7 @@ Location
 
 {: .dl-horizontal }
 Date
-: 26 May - 16 June 2022
+: 26th May - 16th June 2022
 
 Location
 : Thachi Valley
