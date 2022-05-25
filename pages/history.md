@@ -70,7 +70,7 @@ Location
 
 {: .dl-horizontal }
 Date
-: ??
+: 15 May - 31st May 2019
 
 Location
 : Bir
