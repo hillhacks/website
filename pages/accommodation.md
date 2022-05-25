@@ -6,55 +6,74 @@ permalink: /accommodation/
 
 hillhacks is a multi-day event so clearly you will need to find somewhere to
 stay, keep clean and perform vital bodily functions.  Three options are listed
-below in order of preference.  Feel free to discuss your accommodation hacks on
+below not in order of preference.  Feel free to discuss your accommodation hacks on
 the [mailing list][ml].
 
 
 ### Campsite
 
-**This is the preferred option.**
-
 Enjoy the great outdoors.  Camping facilities on the property are limited to
-about 50 tents, so this is first-come, first-served.  When the campsite is
-filled, we will identify fresh camping spots; you will need to pay a minimal
-charge to the property owner directly.
+about 6 tents, so this is first-come, first-served.
 
-You must bring your own tent, sleeping mat and sleeping bag.  We will not be
-able to provide tents this year.  If you do not own a tent yet, cheap tents can
-be bought at Decathlon.  In previous years, local attendees have offered to
-bulk-buy tents for people and bring them to the venue.  Please discuss on the
-[mailing list][ml].
+You can bring your own tent, sleeping mat and sleeping bag. You'll need to pay
+a small parking charge. We will also be able to provide tents on rent
+this year. If you do not own a tent yet, cheap tents can be bought at Decathlon.
+In previous years, local attendees have offered to bulk-buy tents for people and
+bring them to the venue.  Please discuss on the [mailing list][ml].
 
-You will be able to share sanitary facilities in the main venue and there is a
-stream a short distance away.
+You will be able to share sanitary facilities in the main venue.
+
+#### Camping Costs
+
+**Bring Your Own Tent**
+* 100₹ per night<sup>**</sup>
+
+<sup>**</sup> For using basic sanitation facilities at the site.
+
+**Tent provided by Jubish<sup>^^</sup>**
+* 2 Person Tent - 400₹ per night
+* 4 Person Tent - 800₹ per night
+
+<sup>^^</sup> Need to inform Jubish much in advance.
+
+📝**Note:** By Default Mattress in tent is not provided, however it
+could be arranged by Jubish if requested in advance, at nominal costs.
 
 ### Stay nearby
 
-If you come without a tent, you must find accommodation nearby.  There are
-plenty of homestays and hotels in and around Bir Billing.  Booking in advance is
+There are plenty of homestays and hotels in and around Thachi Valley. Booking in advance is
 recommended.  Use your favourite search engine or app to find a space that suits
-your needs and budget.
+your needs and budget suitably near the venue.
 
 
 ### On-site rooms
 
-Four of the six rooms at our venue are used for workshops, a shared lounge, and
-other common spaces.  The toilet and bathing facilities in these rooms are
+Rooms are available at the venue. The toilet and bathing facilities in these rooms are
 shared by all of the campers on site.
-
-We reserve one room as an infirmary/nursery and one for solo women travellers
-who would prefer not to sleep alone in tents.  These rooms' bathing facilities
-are also shared with campers and conference attendees.
 
 If you are arriving very early in the morning, you may have a nap in the lounge
 before you set up your tent later in the day.
 
 You will need to bring your own sheets or a sleeping bag.
 
+#### Room Costs
+
+|Room Type|Cost|Availability|Capacity|
+|---------|----|:------------:|--------|
+|Attached|900₹ per night|2|3 person|
+|Non-Attached|700₹ per night|5|3 person|
+|Dormitory|600₹ per night|2|-|-|
+
+<br>📝**Note:** Some discount for students might be available and can be discussed with Jubish. If that doesn't work, you can ask for help in the [mailing list][ml] or telegram channel.
+
+**Financial aid for stay and food**, for both hackers submitting proposals and ones who are not, may be available. You may write to the community on the [mailing list][ml]. You can volunteer and contribute in other ways ;)
+
+<!--
 Please [let us know by email][e] if you would like to stay in a shared room at
 the venue so we can plan occupancy.  Note that your stay in a shared room is not
 confirmed until we tell you it is.  Preference will be given to attendees with
 particular needs (injury, illness, infants, etc.).
+
 
 ### FAQ: Do foreign nationals need a Protected Area Permit (PAP)?
 
@@ -80,7 +99,9 @@ Deer Park website for how.
 
 **Indian Citizens** staying at the main venue will need to hand over a copy of their identity proof. If you are staying elsewhere, _we don't need it_, but your hotel may.
 
-[ml]: {% link pages/mailinglist.md %}
-[e]: mailto:mail@hillhacks.in
 [pap_details]: http://deerpark.in/practical-information/permit-for-foreign-nationals/
 *[PAP]: Protected Area Permit
+-->
+
+[ml]: {% link pages/mailinglist.md %}
+[e]: mailto:mail@hillhacks.in
