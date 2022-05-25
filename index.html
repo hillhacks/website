@@ -7,7 +7,7 @@ permalink: /
     <div class="row logo"></div>
     <h1>Hacking and making in the Himalayas</h1>
     <h3>Thachi Valley, Himachal Pradesh, India</h3>
-    <h3>26 May - 10 Jun 2022</h3>
+    <h3>26 May - 16 Jun 2022</h3>
     <div class="row cta-row">
         <div class="col-md-4 col-sm-4 col-sm-offset-2">
             <a href="{{site.baseurl}}/register/">
@@ -27,10 +27,10 @@ permalink: /
             <div class="row homepage-gallery">
                 <div class="col-md-12 no-padding mt20">
                     <div class="row">
-                    {% for num in (1..9) %}
+                        {% for num in (1..9) %}
                         {% capture image_href %}{{site.baseurl}}/assets/images/img-{{num}}.png{% endcapture %}
                         {% include lightbox-image.html href=image_href %}
-                    {% endfor %}
+                        {% endfor %}
                     </div>
                 </div>
             </div>
