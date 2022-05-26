@@ -10,6 +10,7 @@ Click the button below to register, and let us know that you are coming.
 
 {% include btn-register.html %}
 
+<!--
 ### Event costs
 
 There is a **day pass** for people staying off-site and a **camping pass** for
@@ -26,6 +27,7 @@ space and the use of shared bathing facilities.
 |------------------|-------------|------------------|
 | **Day pass**     | Rs. xxx/day | Rs. 300-1800/day |
 | **Camping pass** | Rs. xxx/day | Rs. 500-2000/day |
+-->
 
 ### How to pay
 We accept cash at the event.

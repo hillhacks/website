@@ -46,13 +46,13 @@ the mailing list.
 
 When can I come?
 : The unconference and set-up for the main conference all
-  begin on 18<sup>th</sup> May 2018.  We have the venue until 31<sup>st</sup>
-  May 2018.  If you would like to come earlier or stay later, you should make
+  begin on 26<sup>th</sup> May 2022.  We have the venue until 16<sup>th</sup>
+  June 2022.  If you would like to come earlier or stay later, you should make
   your own arrangements.  Contact the [mailing list][ml] for pointers.
 ^
 
 When is the main conference?
-: 24-27 May 2018.
+: 3rd June - 10th June 2022.
 ^
 
 How do I get there?
@@ -71,14 +71,14 @@ How cold will it be up there?
 
 What about lodging and food?
 : See the [Venue page][venue] and the [Accommodation page][acco] for details.
-<!-- This says nothing about food!  We need to know about food! -->
 ^
 
+<!--
 I am a foreign national.  Do I need a Protected Area Permit (PAP)?
 : Not if you are camping on-site.  Read the relevant section on the
 [Accommodation page][acco] for more details.
 ^
-
+-->
 I am concerned that I am too young / too old / an introvert / a single female /
 a single male / a robot / something totally different.
 : Read our note on providing a safe and friendly place for everyone.  In
@@ -94,6 +94,12 @@ My family is concerned that this will be way too dangerous!
   primarily concerned about the travel, shout out on the [mailing list][ml]
   There is a good chance that others will be travelling the same route around
   the same time you intend to travel.
+^
+
+### Bookings
+
+Where do I book my stay/food/.. ?
+: Please contact Jubish(9742787000) over call or telegram for all bookings.
 ^
 
 ### Sliding scale

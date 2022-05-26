@@ -37,3 +37,13 @@ Address
     </div>
   </div>
 </div>
+
+### Food and Accomodation
+
+Food(Veg.) is available at the venue of 300₹ per person per day which includes breakfast, lunch, dinner.
+Custom food options are also available and it can be requested with Jubish. Charged separately.
+If the kitchen is available, you can cook. 
+
+There are multiple options for accomodation at the venue, check [accommodation][accommodation] for more details.
+
+ [accommodation]: {{site.baseurl}}/accommodation/
