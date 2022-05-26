@@ -73,6 +73,12 @@ What about lodging and food?
 : See the [Venue page][venue] and the [Accommodation page][acco] for details.
 ^
 
+Can I work from hillhacks, any powercuts or internet issues ?
+: You sure can, generally there are no powecuts, expect for rains and storm situations.
+  Internet connetivity is good, Airtel works awesome, Jio works okay. 
+  Other networks are there but not so reliable for video calls. 
+  **Wi-Fi connection is not available at the venue.**
+^
 <!--
 I am a foreign national.  Do I need a Protected Area Permit (PAP)?
 : Not if you are camping on-site.  Read the relevant section on the
