@@ -105,7 +105,7 @@ My family is concerned that this will be way too dangerous!
 ### Bookings
 
 Where do I book my stay/food/.. ?
-: Please contact Jubish(9742787000) over call or telegram for all bookings.
+: Please contact Jubeesh(9742787000) over call or telegram for all bookings.
 ^
 
 ### Sliding scale

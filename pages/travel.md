@@ -34,13 +34,13 @@ Can be booked by most bus booking sites. Most Buses towards Manali/Kullu/Kasol, 
 
 Aut Bus Stand to Batludhar village (Hippie Gotra) by taxi
 (Alto 1300 INR & Sumo or other 1800 INR, can be shared among people)
-If needed, this can be arranged by Jubish - call him at - 9742787000
+If needed, this can be arranged by Jubeesh - call him at - 9742787000
 
 OR
 
 Aut Bus Stand to Thachi by local bus
 Thachi to Batludhar village by taxi (300 rupees)
-This can also be arranged by Jubish - 9742787000
+This can also be arranged by Jubeesh - 9742787000
 
 
 Tickets can be booked at [HRTC](http://www.hrtchp.com/hrtctickets/).
@@ -55,13 +55,13 @@ or
 Aut to Thachi by local bus and Thachi to Batludhar by taxi
 Aut Bus Stand to Batludhar village (Hippie Gotra) by taxi
 (Alto 1300 INR & Sumo or other 1800 INR, can be shared among people)
-If needed, this can be arranged by Jubish - call him at - 9742787000
+If needed, this can be arranged by Jubeesh - call him at - 9742787000
 
 OR
 
 Aut Bus Stand to Thachi by local bus
 Thachi to Batludhar village by taxi (300 rupees)
-This can also be arranged by Jubish - 9742787000
+This can also be arranged by Jubeesh - 9742787000
 
 
 #### Option 3: From Kasol
