@@ -29,7 +29,7 @@ below for details).
 Delhi ---> Aut ---> Thachi ---> Batludhar
 
 Delhi (Majnu Ka Tilla / Kashmiri Gate) to Aut Bus Stand - Volvo/HSRTC buses
-Can be booked by most bus booking sites. Most Buses towards Manali/Kullu/Kasol, will make a stop at Aut Bus Stand. It takes approximately 10-12 hours to reach Aut. Once we reach Aut, we can either take a cab directly from Aut to Bhatludhar (Hippie Gotra) or catch a bus till Thachi and take a cab from Thachi to Bhatludhar (Hippie Gotra).
+Can be booked by most bus booking sites. Most Buses towards Manali/Kullu/Kasol, will make a stop at Aut Bus Stand. It takes approximately 10-12 hours to reach Aut. Once we reach Aut, we can either take a cab directly from Aut to Batludhar (Hippie Gotra) or catch a bus till Thachi and take a cab from Thachi to Batludhar (Hippie Gotra).
 
 
 Aut Bus Stand to Batludhar village (Hippie Gotra) by taxi
