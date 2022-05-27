@@ -37,7 +37,7 @@ Some ideas for topics:
 
 Please note that the above list is limited by the writer's imagination. It only serves to stimulate ideas in you. Topics not in the above list are _more_ than welcome.
 
-The sessons don't necessarily have to be about technology! Over the past four editions, there have been artists, architects, human rights activists, performance artists, hardware and software engineers and designers who've participated at hillhacks.
+The sessions don't necessarily have to be about technology! Over the past six editions, there have been artists, architects, human rights activists, performance artists, hardware and software engineers and designers who've participated at hillhacks.
 
 If you're new to hillhacks, you might find the following links useful to get a taste of the kind of conversations we've had in the past:
 
