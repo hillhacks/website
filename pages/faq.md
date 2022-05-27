@@ -74,8 +74,8 @@ What about lodging and food?
 ^
 
 Can I work from hillhacks, any powercuts or internet issues ?
-: You sure can, generally there are no powecuts, expect for rains and storm situations.
-  Internet connetivity is good, Airtel works awesome, Jio works okay. 
+: You sure can, generally there are no powercuts, except for rains and storm situations.
+  Internet connectivity is good, Airtel works awesome, Jio works okay. 
   Other networks are there but not so reliable for video calls. 
   **Wi-Fi connection is not available at the venue.**
 ^
@@ -98,7 +98,7 @@ My family is concerned that this will be way too dangerous!
 : Please have a look at the blog posts from participants from previous hillhacks
   editions, and maybe show them the report or project description.  If they are
   primarily concerned about the travel, shout out on the [mailing list][ml]
-  There is a good chance that others will be travelling the same route around
+  There is a good chance that others will be traveling the same route around
   the same time you intend to travel.
 ^
 
