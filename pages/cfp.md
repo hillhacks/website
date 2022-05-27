@@ -37,7 +37,7 @@ Some ideas for topics:
 
 Please note that the above list is limited by the writer's imagination. It only serves to stimulate ideas in you. Topics not in the above list are _more_ than welcome.
 
-The sessons don't necessarily have to be about technology! Over the past four editions, there have been artists, architects, human rights activists, performance artists, hardware and software engineers and designers who've participated at hillhacks.
+The sessions don't necessarily have to be about technology! Over the past six editions, there have been artists, architects, human rights activists, performance artists, hardware and software engineers and designers who've participated at hillhacks.
 
 If you're new to hillhacks, you might find the following links useful to get a taste of the kind of conversations we've had in the past:
 
@@ -66,6 +66,6 @@ Please do mention if you're looking for travel assistance. We'll do our best to 
 
 ### Propose
 
-Convinced? [Register](https://ee.kobotoolbox.org/x/BUMbMagG) and send in your submissions!
+Convinced? [Register](https://ee.kobotoolbox.org/x/BUMbMagG) and don't forget to send in your [Submissions!](https://ee.kobotoolbox.org/x/Ub6gdXt6)
 
 Also, please [subscribe to the mailing list]({% link pages/mailinglist.md %}) for the latest updates.

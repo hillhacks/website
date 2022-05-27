@@ -30,14 +30,14 @@ You will be able to share sanitary facilities in the main venue.
 
 <sup>**</sup> For using basic sanitation facilities at the site.
 
-**Tent provided by Jubish<sup>^^</sup>**
-* 2 Person Tent - 400₹ per night
-* 4 Person Tent - 800₹ per night
+**Tent provided by Jubeesh<sup>^^</sup>**
+* 2 Person Tent - 400₹ per night per tent
+* 4 Person Tent - 800₹ per night per tent
 
-<sup>^^</sup> Need to inform Jubish much in advance.
+<sup>^^</sup> Need to inform Jubeesh much in advance.
 
 📝**Note:** By Default Mattress in tent is not provided, however it
-could be arranged by Jubish if requested in advance, at nominal costs.
+could be arranged by Jubeesh if requested in advance, at nominal costs.
 
 ### Stay nearby
 
@@ -60,11 +60,11 @@ You will need to bring your own sheets or a sleeping bag.
 
 |Room Type|Cost|Availability|Capacity|
 |---------|----|:------------:|--------|
-|Attached|900₹ per night|2|3 person|
-|Non-Attached|700₹ per night|5|3 person|
-|Dormitory|600₹ per night|2|-|-|
+|Attached|900₹ per night per room|2|3 person|
+|Non-Attached|700₹ per night per room|5|3 person|
+|Dormitory|600₹ per night per room|2|-|-|
 
-<br>📝**Note:** Some discount for students might be available and can be discussed with Jubish. If that doesn't work, you can ask for help in the [mailing list][ml] or telegram channel.
+<br>📝**Note:** Some discount for students might be available and can be discussed with Jubeesh. If that doesn't work, you can ask for help in the [mailing list][ml] or telegram channel.
 
 **Financial aid for stay and food**, for both hackers submitting proposals and ones who are not, may be available. You may write to the community on the [mailing list][ml]. You can volunteer and contribute in other ways ;)
 

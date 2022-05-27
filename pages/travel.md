@@ -29,18 +29,18 @@ below for details).
 Delhi ---> Aut ---> Thachi ---> Batludhar
 
 Delhi (Majnu Ka Tilla / Kashmiri Gate) to Aut Bus Stand - Volvo/HSRTC buses
-Can be booked by most bus booking sites. Most Buses towards Manali/Kullu/Kasol, will make a stop at Aut Bus Stand. It takes approximately 10-12 hours to reach Aut. Once we reach Aut, we can either take a cab directly from Aut to Bhatludhar (Hippie Gotra) or catch a bus till Thachi and take a cab from Thachi to Bhatludhar (Hippie Gotra).
+Can be booked by most bus booking sites. Most Buses towards Manali/Kullu/Kasol, will make a stop at Aut Bus Stand. It takes approximately 10-12 hours to reach Aut. Once we reach Aut, we can either take a cab directly from Aut to Batludhar (Hippie Gotra) or catch a bus till Thachi and take a cab from Thachi to Batludhar (Hippie Gotra).
 
 
 Aut Bus Stand to Batludhar village (Hippie Gotra) by taxi
 (Alto 1300 INR & Sumo or other 1800 INR, can be shared among people)
-If needed, this can be arranged by Jubish - call him at - 9742787000
+If needed, this can be arranged by Jubeesh - call him at - 9742787000
 
 OR
 
 Aut Bus Stand to Thachi by local bus
 Thachi to Batludhar village by taxi (300 rupees)
-This can also be arranged by Jubish - 9742787000
+This can also be arranged by Jubeesh - 9742787000
 
 
 Tickets can be booked at [HRTC](http://www.hrtchp.com/hrtctickets/).
@@ -55,13 +55,13 @@ or
 Aut to Thachi by local bus and Thachi to Batludhar by taxi
 Aut Bus Stand to Batludhar village (Hippie Gotra) by taxi
 (Alto 1300 INR & Sumo or other 1800 INR, can be shared among people)
-If needed, this can be arranged by Jubish - call him at - 9742787000
+If needed, this can be arranged by Jubeesh - call him at - 9742787000
 
 OR
 
 Aut Bus Stand to Thachi by local bus
 Thachi to Batludhar village by taxi (300 rupees)
-This can also be arranged by Jubish - 9742787000
+This can also be arranged by Jubeesh - 9742787000
 
 
 #### Option 3: From Kasol
