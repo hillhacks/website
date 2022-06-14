@@ -9,7 +9,7 @@ permalink: /participate/
 7th Jun to 23rd Jun
 
 1. Setup and Unconference 1: 7th - 9th June
-2. Main Events: 10th to 16th June
+2. Main Events: 15th and 16th June
 3. Unconference 2 & Teardown: 17th to 23rd June
 
 [Submit your Hack/Talk/Proposal/Event](https://ee.kobotoolbox.org/x/Ub6gdXt6)
