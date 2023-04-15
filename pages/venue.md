@@ -4,7 +4,7 @@ title: Venue
 permalink: /where/
 ---
 
-hillhacks 2022 will take place Hippie Gotra at Thachi Valley, Himachal Pradesh, India. The nearest Bus Stop is “Thachi Valley”.
+hillhacks 2023 will take place Hippie Gotra at Thachi Valley, Himachal Pradesh, India. The nearest Bus Stop is “Thachi Valley”.
 
 You have to catch a bus from Delhi to Aut tunnel (towards Kullu /Manali /Kasol bus route) It takes approximately 10-12 hours to reach Aut. Once you reach Aut you can either take a cab from Aut to Batludhar(Hippie Gotra) or catch a bus till Thachi and take a cab from Thachi to Batludhar(Hippie Gotra).
 
