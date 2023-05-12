@@ -6,13 +6,13 @@ permalink: /participate/
 
 ### Dates
 
-7th Jun to 23rd Jun
+13th May to 28th May
 
-1. Setup and Unconference 1: 7th - 9th June
-2. Main Events: 15th and 16th June
-3. Unconference 2 & Teardown: 17th to 23rd June
+1. Setup and Unconference 1: 13th - 19th May
+2. Main Events: 20th and 21st May
+3. Unconference 2 & Teardown: 22nd to 28th May
 
-[Submit your Hack/Talk/Proposal/Event](https://ee.kobotoolbox.org/x/Ub6gdXt6)
+[Submit your Hack/Talk/Proposal/Event](https://ee.kobotoolbox.org/x/mGw6WXYO)
 
 
 
@@ -59,13 +59,13 @@ If you are curious to see or participate in a session on a particular topic, ple
 There will be one main 'stage' which will feature a projector. There will also be other spaces, including open green spaces, rooms, terraces that will be open and available for both scheduled and impromptu sessions.
 
 ### Deadline
-Please do make sure to send in your submissions by the 2nd June, so we can have sufficient time to go through it, give feedback and schedule it. Sooner the better!
+Please do make sure to send in your submissions by the 2nd May, so we can have sufficient time to go through it, give feedback and schedule it. Sooner the better!
 
 ### Grants
 Please do mention if you're looking for travel assistance. We'll do our best to help with this.
 
 ### Propose
 
-Convinced? [Register](https://ee.kobotoolbox.org/x/BUMbMagG) and don't forget to send in your [Submissions!](https://ee.kobotoolbox.org/x/Ub6gdXt6)
+Convinced? [Register](https://ee.kobotoolbox.org/x/BUMbMagG) and don't forget to send in your [Submissions!](https://ee.kobotoolbox.org/x/mGw6WXYO)
 
 Also, please [subscribe to the mailing list]({% link pages/mailinglist.md %}) for the latest updates.
