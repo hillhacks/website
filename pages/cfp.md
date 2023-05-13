@@ -66,6 +66,6 @@ Please do mention if you're looking for travel assistance. We'll do our best to 
 
 ### Propose
 
-Convinced? [Register](https://ee.kobotoolbox.org/x/BUMbMagG) and don't forget to send in your [Submissions!](https://ee.kobotoolbox.org/x/mGw6WXYO)
+Convinced? [Register](https://ee.kobotoolbox.org/x/mNeTt7lL) and don't forget to send in your [Submissions!](https://ee.kobotoolbox.org/x/mGw6WXYO)
 
 Also, please [subscribe to the mailing list]({% link pages/mailinglist.md %}) for the latest updates.
