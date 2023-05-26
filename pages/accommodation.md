@@ -26,13 +26,12 @@ You will be able to share sanitary facilities in the main venue.
 #### Camping Costs
 
 **Bring Your Own Tent**
-* 100₹ per night<sup>**</sup>
+* 600₹ per night<sup>**</sup>
 
-<sup>**</sup> For using basic sanitation facilities at the site.
+<sup>**</sup> For using basic sanitation facilities at the site plus food and electricity.
 
 **Tent provided by Jubeesh<sup>^^</sup>**
-* 2 Person Tent - 400₹ per night per tent
-* 4 Person Tent - 800₹ per night per tent
+* 700₹ per person per night, you can choose 2/4 person tent.
 
 <sup>^^</sup> Need to inform Jubeesh much in advance.
 
@@ -60,11 +59,14 @@ You will need to bring your own sheets or a sleeping bag.
 
 |Room Type|Cost|Availability|Capacity|
 |---------|----|:------------:|--------|
-|Attached|900₹ per night per room|2|3 person|
-|Non-Attached|700₹ per night per room|5|3 person|
-|Dormitory|600₹ per night per room|2|-|-|
+|Attached|1000₹ per night per room|2 person|
+|Non-Attached|800₹ per night per room|2 person|
 
 <br>📝**Note:** Some discount for students might be available and can be discussed with Jubeesh. If that doesn't work, you can ask for help in the [mailing list][ml] or telegram channel.
+
+#### Food Costs
+
+All prices mentioned above incluse costs for vegetarian breakfast, lunch, tea/coffee & dinner.
 
 **Financial aid for stay and food**, for both hackers submitting proposals and ones who are not, may be available. You may write to the community on the [mailing list][ml]. You can volunteer and contribute in other ways ;)
 
