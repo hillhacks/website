@@ -83,12 +83,3 @@ Date
 
 Location
 : Thachi Valley
-
-### hillhacks 7
-
-{: .dl-horizontal }
-Date
-: 13th May - 28th May 2023
-
-Location
-: Thachi Valley
