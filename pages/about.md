@@ -3,8 +3,9 @@ layout: page
 title: What we do
 permalink: /about/
 ---
-
-hillhacks is held in the lap of the stunning Dhauladhar Himalayas every summer.
+hillhacks has been held in the lap of the stunning Dhauladhar Himalayas every summer in 
+the state of Himachal Pradesh. There is buzz of having it other hilly regions in India 
+in the upcoming editions.
 
 People from different places, walks of life and lines of thought come together
 to share, collaborate and learn.
