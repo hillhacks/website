@@ -46,13 +46,13 @@ the mailing list.
 
 When can I come?
 : The unconference and set-up for the main conference all
-  begin on 13<sup>th</sup> May 2023. If you would like to
+  begin on 3<sup>rd</sup> June 2026. If you would like to
   come earlier or stay later, you should make
   your own arrangements.  Contact the [mailing list][ml] for pointers.
 ^
 
 When is the main conference?
-: 21st May - 28th May 2023
+: 3rd June - 7th June 2026
 ^
 
 How do I get there?
@@ -75,9 +75,9 @@ What about lodging and food?
 
 Can I work from hillhacks, any powercuts or internet issues ?
 : You sure can, generally there are no powercuts, except for rains and storm situations.
-  Internet connectivity is good, Airtel works awesome, Jio works okay. 
+  Internet connectivity is good, Airtel works awesome, Jio works well to. 
   Other networks are there but not so reliable for video calls. 
-  **Wi-Fi connection is not available at the venue.**
+  **Wi-Fi connection is available at the venue, but can be slow**
 ^
 <!--
 I am a foreign national.  Do I need a Protected Area Permit (PAP)?
@@ -105,7 +105,7 @@ My family is concerned that this will be way too dangerous!
 ### Bookings
 
 Where do I book my stay/food/.. ?
-: Please contact Jubeesh(9742787000) over call or telegram for all bookings.
+: Please contact Prabhuji(9736341209) over call or telegram for all bookings.
 ^
 
 ### Sliding scale
