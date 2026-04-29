@@ -129,19 +129,19 @@ eco-friendly, so if you come by car, please consider sharing the ride with
 others.
 
 From Pathankot to Bir
-: 4-5 hours, Rs. 1700-2000
+: 4-5 hours, 
 ^
 From Dharamshala to Bir
-: 2 hours, Rs. 1000-1400
+: 2 hours, 
 ^
 From Baijnath to Bir
-: 20 minutes, Rs. 250
+: 20-40 minutes, 
 ^
 From Bir Road[^1]
-: 5 minutes, Rs. 60-70
+: 5 minutes, 
 ^
 From Bir Road to Upper Bir
-: 10 minutes, Rs. 150-200
+: 10 minutes,
 
 [^1]: The closest stop for most long-distance buses to Chowgan (including the
       Tibetan Colony or Deer Park).
@@ -149,7 +149,7 @@ From Bir Road to Upper Bir
 [venue]: {{site.baseurl}}/where/
 
 ### God Mode
-For all sorts of concerns/details/clarifications reach out to TODO, He'll be your angel.
+For all sorts of concerns/details/clarifications reach out to Prabhu Shiv Singh (9736341209), He'll be your angel.
 Please don't bother him needlessly ,then he'll have to turn into GOD as in stop listening.
 
 [venue]: {{site.baseurl}}/where/
