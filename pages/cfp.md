@@ -6,13 +6,9 @@ permalink: /participate/
 
 ### Dates
 
-13th May to 28th May
+3rd June to 7th June 2026
 
-1. Setup and Unconference 1: 13th - 19th May
-2. Main Events: 20th and 21st May
-3. Unconference 2 & Teardown: 22nd to 28th May
-
-[Submit your Hack/Talk/Proposal/Event](https://ee.kobotoolbox.org/x/mGw6WXYO)
+[Submit your Hack/Talk/Proposal/Event](https://eventyay.com/e/afabeb2a/cfs/e922be14-db3c-458b-9c4b-cd7a6c19646d)
 
 
 
@@ -49,7 +45,7 @@ If you're new to hillhacks, you might find the following links useful to get a t
 ### Format
 
 - Talks are recommended to be timed at 30 minutes. We're happy to give you feedback on your slides and talk overall, and help you prepare for your presentation on the stage! We do plan to record talks.
-- Workshops are recommended to be timed at 3 hours. Please do make sure that the workshops are highly interactive or hands-on. You can conduct the workshop over the course of multiple days too, depending upon the level of interest. If you need special equipment, please do mention it. We'll look into how we can help.
+- Workshops are recommended to be timed at 1-3 hours. Please do make sure that the workshops are highly interactive or hands-on. You can conduct the workshop over the course of multiple days too, depending upon the level of interest. If you need special equipment, please do mention it. We'll look into how we can help.
 - Discussion sessions are expected to last for about an hour. These sessions will be moderated.
 
 If you are curious to see or participate in a session on a particular topic, please go ahead and propose the topic. We'll do our best to find a qualified speaker to take it up!
@@ -59,13 +55,13 @@ If you are curious to see or participate in a session on a particular topic, ple
 There will be one main 'stage' which will feature a projector. There will also be other spaces, including open green spaces, rooms, terraces that will be open and available for both scheduled and impromptu sessions.
 
 ### Deadline
-Please do make sure to send in your submissions by the 2nd May, so we can have sufficient time to go through it, give feedback and schedule it. Sooner the better!
+Please do make sure to send in your submissions by the 25th June 2026, so we can have sufficient time to go through it, give feedback and schedule it. Sooner the better!
 
 ### Grants
 Please do mention if you're looking for travel assistance. We'll do our best to help with this.
 
 ### Propose
 
-Convinced? [Register](https://ee.kobotoolbox.org/x/mNeTt7lL) and don't forget to send in your [Submissions!](https://ee.kobotoolbox.org/x/mGw6WXYO)
+Convinced? [Register](https://eventyay.com/e/afabeb2a/cfs/e922be14-db3c-458b-9c4b-cd7a6c19646d) and don't forget to send in your [Submissions!](https://eventyay.com/e/afabeb2a/cfs/e922be14-db3c-458b-9c4b-cd7a6c19646d)
 
 Also, please [subscribe to the mailing list]({% link pages/mailinglist.md %}) for the latest updates.
