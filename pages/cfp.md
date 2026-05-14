@@ -55,7 +55,7 @@ If you are curious to see or participate in a session on a particular topic, ple
 There will be one main 'stage' which will feature a projector. There will also be other spaces, including open green spaces, rooms, terraces that will be open and available for both scheduled and impromptu sessions.
 
 ### Deadline
-Please do make sure to send in your submissions by the 25th June 2026, so we can have sufficient time to go through it, give feedback and schedule it. Sooner the better!
+Please do make sure to send in your submissions by the 31st May 2026, so we can have sufficient time to go through it, give feedback and schedule it. Sooner the better!
 
 ### Grants
 Please do mention if you're looking for travel assistance. We'll do our best to help with this.
