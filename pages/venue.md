@@ -44,8 +44,15 @@ Address
 ### Food & Accommodation
 
 
-Food(Veg.) is available at the venue of 00₹ per person per day which includes breakfast, lunch, dinner.
-Custom food options are also available and it can be requested with Jubeesh. Charged separately.
+Food(Veg.) is available at the venue.
+
+Breakfast at INR 200
+Lunch at INR 250
+Dinner at INR 250
+
+Snacks, tea and Coffee Complimentary
+
+Custom food options are also available and it can be requested with the Kitchen Staff. Charged separately.
 If the kitchen is available, you can cook. 
 There are multiple options for accommodation at the venue, check [accommodation][accommodation] for more details.
 
