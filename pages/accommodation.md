@@ -26,47 +26,36 @@ You will be able to share sanitary facilities in the main venue.
 #### Camping Costs
 
 **Bring Your Own Tent**
-* 600₹ per night<sup>**</sup>
+* 600₹ per night<sup>**</sup> for a two person tent
 
 <sup>**</sup> For using basic sanitation facilities at the site plus food and electricity.
 
-**Tent provided by Jubeesh<sup>^^</sup>**
-* 700₹ per person per night, you can choose 2/4 person tent.
+**Tent provided by Venue<sup>^^</sup>**
+* 900₹ per night, for a two person tent.
 
-<sup>^^</sup> Need to inform Jubeesh much in advance.
-
-📝**Note:** By Default Mattress in tent is not provided, however it
-could be arranged by Jubeesh if requested in advance, at nominal costs.
-
+<sup>^^</sup> Please inform the organizers much in advance so they can pre-arrange adequate number of tents.
 ### Stay nearby
 
-There are plenty of homestays and hotels in and around Thachi Valley. Booking in advance is
+There are plenty of homestays and hotels in and around Bir. Booking in advance is
 recommended.  Use your favourite search engine or app to find a space that suits
-your needs and budget suitably near the venue.
+your needs and budget suitably near the venue. 
 
 
 ### On-site rooms
 
-Rooms are available at the venue. The toilet and bathing facilities in these rooms are
-shared by all of the campers on site.
-
-If you are arriving very early in the morning, you may have a nap in the lounge
-before you set up your tent later in the day.
+Limited number of rooms are available at the venue.
 
 You will need to bring your own sheets or a sleeping bag.
 
-#### Room Costs
-
-|Room Type|Cost|Availability|Capacity|
-|---------|----|:------------:|--------|
-|Attached|1000₹ per night per room|2 person|
-|Non-Attached|800₹ per night per room|2 person|
-
-<br>📝**Note:** Some discount for students might be available and can be discussed with Jubeesh. If that doesn't work, you can ask for help in the [mailing list][ml] or telegram channel.
-
 #### Food Costs
 
-All prices mentioned above incluse costs for vegetarian breakfast, lunch, tea/coffee & dinner.
+Breakfast at INR 200
+
+Lunch at INR 250
+
+Dinner at INR 250
+
+Snacks, tea and Coffee Complimentary
 
 **Financial aid for stay and food**, for both hackers submitting proposals and ones who are not, may be available. You may write to the community on the [mailing list][ml]. You can volunteer and contribute in other ways ;)
 
