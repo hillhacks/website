@@ -47,7 +47,9 @@ Address
 Food(Veg.) is available at the venue.
 
 Breakfast at INR 200
+
 Lunch at INR 250
+
 Dinner at INR 250
 
 Snacks, tea and Coffee Complimentary
