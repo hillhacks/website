@@ -26,7 +26,7 @@ You will be able to share sanitary facilities in the main venue.
 #### Camping Costs
 
 **Bring Your Own Tent**
-* 600₹ per night<sup>**</sup> for a two person tent
+* 500₹ per night<sup>**</sup> for a two person tent
 
 <sup>**</sup> For using basic sanitation facilities at the site plus food and electricity.
 
