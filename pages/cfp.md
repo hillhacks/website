@@ -8,7 +8,7 @@ permalink: /participate/
 
 3rd June to 7th June 2026
 
-[Submit your Hack/Talk/Proposal/Event](https://eventyay.com/e/afabeb2a/cfs/e922be14-db3c-458b-9c4b-cd7a6c19646d)
+[Submit your Hack/Talk/Proposal/Event](https://eventyay.com/hh/afabeb2a/cfp)
 
 
 
@@ -62,6 +62,6 @@ Please do mention if you're looking for travel assistance. We'll do our best to 
 
 ### Propose
 
-Convinced? [Register](https://eventyay.com/e/afabeb2a/cfs/e922be14-db3c-458b-9c4b-cd7a6c19646d) and don't forget to send in your [Submissions!](https://eventyay.com/e/afabeb2a/cfs/e922be14-db3c-458b-9c4b-cd7a6c19646d)
+Convinced? [Register](https://eventyay.com/hh/afabeb2a/) and don't forget to send in your [Submissions!](https://eventyay.com/hh/afabeb2a/cfp)
 
 Also, please [subscribe to the mailing list]({% link pages/mailinglist.md %}) for the latest updates.
