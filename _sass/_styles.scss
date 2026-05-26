@@ -269,6 +269,46 @@ body{
     }
 }
 
+.supporters-section {
+    text-align: center;
+}
+
+.supporters-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+.supporter-card {
+    display: block;
+    width: calc(25% - 15px);
+    min-width: 180px;
+    margin-bottom: 20px;
+    text-decoration: none;
+}
+
+.supporter-logo {
+    background-color: #f7f7f7;
+    border: 1px solid #e6e6e6;
+    border-radius: 8px;
+    color: #4e4e4e;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 120px;
+    padding: 15px;
+    font-family: 'Francois One', sans-serif;
+    font-size: 18px;
+    text-align: center;
+    transition: box-shadow 0.2s ease, border-color 0.2s ease;
+}
+
+.supporter-card:hover .supporter-logo {
+    border-color: #63c3d5;
+    box-shadow: 0 12px 25px rgba(0, 0, 0, 0.08);
+}
+
 /* Don't underline footnotes */
 a.footnote {
   text-decoration: none !important;
