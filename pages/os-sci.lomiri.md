@@ -19,4 +19,5 @@ Education creates sustainability. Sustainability creates communities. Communitie
 For OpenSource Science, supporting Lomiri is therefore not simply about backing another open-source project. It is about investing in digital sovereignty, developing future contributors, and helping build an ecosystem where technology remains open, accessible, and community owned for generations to come.
 
 Investing in Lomiri today, educating the open-source innovators of tomorrow.
-Know more at https://os-sci.com/lomiri
+
+Know more at [https://os-sci.com/lomiri](https://os-sci.com/lomiri)
